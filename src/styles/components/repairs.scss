@@ -1,0 +1,48 @@
+.repairs {
+  padding: 75px 0;
+}
+
+.repairs-logo {
+  display: block;
+  margin: 0 auto 30px auto;
+}
+
+.repairs-items {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+  gap: 50px;
+  &__item {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+    width: 155px;
+  }
+  &__img {
+    height: 50px;
+    display: flex;
+    align-items: flex-end;
+    justify-content: center;
+    margin-bottom: 50px;
+  }
+  &__btn {
+    &:not(:last-child) {
+      margin-bottom: 20px;
+    }
+  }
+  @media screen and (min-width: 768px) {
+    flex-direction: unset;
+    align-items: flex-start;
+    justify-content: space-around;
+  }
+}
+
+.repairs-items-links {
+  display: flex;
+  flex-wrap: wrap;
+  align-items: center;
+  justify-content: center;
+  gap: 25px;
+}

@@ -1,0 +1,74 @@
+// base
+@import "./base/colors.scss";
+@import "./base/fonts.scss";
+
+// views
+@import "./views/header.scss";
+@import "./views/footer.scss";
+
+// components
+@import "./components/btn.scss";
+@import "./components/repair-link.scss";
+@import "./components/repairs.scss";
+
+// layouts
+@import "./layouts/homepage/homePage.scss";
+@import "./layouts/contacts.scss";
+@import "./layouts/price.scss";
+
+* {
+  padding: 0;
+  margin: 0;
+  box-sizing: border-box;
+}
+
+body {
+  font-family: "IBM Plex Sans", sans-serif;
+  font-size: 16px;
+  background-color: $white;
+}
+
+a {
+  color: $black;
+  text-decoration: none;
+}
+
+.title-h2 {
+  font-size: $h3;
+  font-weight: 700;
+  text-align: center;
+  margin-bottom: 50px;
+  @media screen and (min-width: 1440px) {
+    font-size: $h2;
+  }
+}
+
+.container {
+  padding: 0 20px;
+  max-width: 1440px;
+  margin: 0 auto;
+  @media screen and (min-width: 768px) {
+    padding: 0 40px;
+  }
+  @media screen and (min-width: 1024px) {
+    padding: 0 60px;
+  }
+  @media screen and (min-width: 1440px) {
+    padding: 0 100px;
+  }
+}
+
+.fade-enter-active,
+.fade-leave-active {
+  transition: all 0.5s ease;
+}
+
+.fade-enter-from,
+.fade-leave-to {
+  position: absolute;
+  left: 0;
+  right: 0;
+  margin: 0 auto;
+  transform: translateX(-20px);
+  opacity: 0;
+}

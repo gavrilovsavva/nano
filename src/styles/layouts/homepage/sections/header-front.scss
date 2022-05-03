@@ -1,0 +1,121 @@
+.header-front {
+  padding: 75px 0;
+  position: relative;
+  &__container {
+  }
+  @media screen and (min-width: 768px) {
+    background: url("@/assets/header/bg-header.png") center;
+    background-repeat: no-repeat;
+    &__container {
+      display: flex;
+      justify-content: space-between;
+    }
+  }
+}
+
+.header-text {
+  text-align: center;
+  margin-bottom: 40px;
+  &__text-container {
+    max-width: 400px;
+    margin: 0 auto;
+    margin-bottom: 30px;
+  }
+  &__title {
+    font-size: $h2;
+    font-weight: 700;
+    margin-bottom: 10px;
+  }
+  &__subtitle {
+    display: block;
+    font-size: $h3;
+  }
+  &__btns {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    flex-direction: column;
+    row-gap: 10px;
+  }
+  @media screen and (min-width: 768px) {
+    text-align: left;
+    &__text-container {
+      background-color: rgba($color: $white, $alpha: 0.7);
+      padding: 10px;
+      border-radius: 10px;
+      box-shadow: 0 0 4px 4px rgba($color: $white, $alpha: 0.7);
+    }
+    &__title {
+      font-size: $h1;
+    }
+  }
+  @media screen and (min-width: 1440px) {
+    &__btns {
+      display: none;
+    }
+  }
+}
+
+.header-items {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  flex-direction: column;
+  gap: 50px;
+  &__item {
+    cursor: pointer;
+    width: 240px;
+    padding: 25px 0;
+    background-color: $white;
+    font-size: $h4;
+    color: $black;
+    position: relative;
+    border-radius: 20px;
+    border: 0;
+    box-shadow: 0 0 4px 4px rgba($color: $dark-blue, $alpha: 0.25);
+    transition: all 0.1s linear;
+    &:active {
+      box-shadow: 0 0 4px 4px rgba($color: $dark-blue, $alpha: 0.5);
+    }
+  }
+  &__img {
+    position: absolute;
+    left: 10px;
+    top: 50%;
+    transform: translateY(-50%);
+  }
+}
+
+// Ты нашел, мои поздравления
+
+// .apple {
+//   position: absolute;
+//   left: 0;
+//   right: 0;
+//   margin: 0 auto;
+//   bottom: 0;
+//   top: 42%;
+//   transform: translateX(20px) rotate(20deg);
+//   opacity: 0;
+//   transition: all 0.5s linear;
+//   cursor: pointer;
+// }
+
+// .appleActive {
+//   opacity: 1;
+// }
+
+// .ios {
+//   position: absolute;
+//   left: 0;
+//   right: 0;
+//   margin: 0 auto;
+//   transform: translate(17px, 17px);
+//   opacity: 0;
+//   z-index: -1;
+// }
+
+// .iosActive {
+//   opacity: 1;
+//   z-index: 1;
+// }

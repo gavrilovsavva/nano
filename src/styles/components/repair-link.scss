@@ -1,0 +1,16 @@
+.repair-link {
+  align-self: stretch;
+  text-align: center;
+  padding: 5px;
+  width: 170px;
+  background-color: $white;
+  border: 0;
+  border-radius: 3px;
+  cursor: pointer;
+  font-size: $h4;
+  box-shadow: 0 0 4px 3px rgba($color: $light-blue, $alpha: 0.35);
+  transition: all 0.1s linear;
+  &:active {
+    box-shadow: 0 0 4px 3px rgba($color: $light-blue, $alpha: 0.6);
+  }
+}

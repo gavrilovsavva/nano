@@ -1,0 +1,29 @@
+.price {
+  padding: 75px 0;
+  &__subtitle {
+    display: inherit;
+    text-align: center;
+    margin-bottom: 30px;
+  }
+}
+
+.price-table {
+  width: 100%;
+  background-color: $white;
+  border-radius: 10px;
+  box-shadow: 0 0 4px 10px rgba($color: $light-blue, $alpha: 0.35);
+  border-collapse: collapse;
+  border-style: hidden;
+  &__row {
+  }
+  &__data {
+    border: 2px solid $light-blue;
+    padding: 8px 5px 8px 10px;
+    &:first-child {
+      width: 85%;
+    }
+    &:last-child {
+      text-align: center;
+    }
+  }
+}

@@ -1,0 +1,32 @@
+<template>
+  <div class="address-item">
+    <div class="address-item__text-container">
+      <h3 class="address-item__title">улица Академика Вильямса 9А</h3>
+      <div class="address-item__columns">
+        <div class="address-item__column">
+          <span class="address-item__column-title">График работы</span>
+          <span class="address-item__column-text">Пн-Вс 10:00 - 20:00</span>
+        </div>
+        <div class="address-item__column">
+          <span class="address-item__column-title">Телефоны</span>
+          <a href="tel:+380991002210" class="address-item__column-text"
+            >+380 99 100 22 10</a
+          >
+        </div>
+      </div>
+    </div>
+    <div class="address-item__img-container">
+      <img
+        src="@/assets/contacts/viliamsa.png"
+        alt="viliamsa"
+        class="address-item__img"
+      />
+    </div>
+  </div>
+</template>
+
+<script>
+export default {};
+</script>
+
+<style></style>

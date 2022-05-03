@@ -1,0 +1,78 @@
+.contacts {
+  padding: 75px 0;
+}
+
+.contacts-items > *:not(:last-child) {
+  margin-bottom: 75px;
+}
+
+.contact-container {
+  padding: 75px 0;
+}
+
+.address-item {
+  background-color: $white;
+  border-radius: 10px;
+  box-shadow: 0 0 4px 10px rgba($color: $light-blue, $alpha: 0.35);
+  padding: 25px 40px;
+  &__text-container {
+  }
+  &__title {
+    text-align: center;
+    font-size: $h4;
+    font-weight: 700;
+    margin-bottom: 30px;
+  }
+  &__columns {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    gap: 20px;
+    margin-bottom: 30px;
+  }
+  &__column {
+    display: flex;
+    flex-direction: column;
+  }
+  &__column-title {
+    font-size: $h4;
+    font-weight: 700;
+    margin-bottom: 5px;
+  }
+  &__column-text {
+    font-size: $h4;
+    &:not(:last-child) {
+      margin-bottom: 5px;
+    }
+  }
+  &__img-container {
+  }
+  &__img {
+    width: 100%;
+  }
+  @media screen and (min-width: 425px) {
+    &__columns {
+      flex-direction: unset;
+      align-items: flex-start;
+      gap: 50px;
+    }
+  }
+  @media screen and (min-width: 768px) {
+    margin-bottom: unset;
+    &__title {
+      text-align: unset;
+      font-size: $h4;
+      font-weight: 700;
+      margin-bottom: 30px;
+    }
+    display: flex;
+    justify-content: space-between;
+  }
+  @media screen and (min-width: 768px) {
+    &__title {
+      font-size: $h3;
+    }
+    display: flex;
+    justify-content: space-between;
+  }
+}
