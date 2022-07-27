@@ -1,7 +1,7 @@
 <template>
   <div class="container">
     <div class="contacts">
-      <h2 class="title-h2">Контакты</h2>
+      <h2 class="title-h2">Контакти</h2>
       <div class="contacts-items">
         <address-shevchenko></address-shevchenko>
         <address-starosennaya></address-starosennaya>

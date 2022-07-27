@@ -7,553 +7,550 @@
       "data": {
         "iphone4": {
           "name": "iPhone 4",
-          "display": 400,
-          "displayGlass": 400,
-          "battery": 300,
-          "body": 200,
-          "bodyGlass": 100,
-          "micro": 150,
-          "speaker": 150,
-          "mainCamera": 150,
-          "frontCamera": 100,
-          "homeBtn": 150,
-          "volumeBtns": 150,
-          "vibro": 100,
-          "cable": 150,
-          "proxiSensor": 150,
-          "water": 200
+          "display": 600,
+          "displayGlass": 600,
+          "battery": 500,
+          "body": 400,
+          "bodyGlass": 200,
+          "micro": 250,
+          "speaker": 250,
+          "mainCamera": 250,
+          "frontCamera": 200,
+          "homeBtn": 250,
+          "volumeBtns": 250,
+          "vibro": 300,
+          "cable": 250,
+          "proxiSensor": 250,
+          "water": 300
         },
         "iphone4s": {
           "name": "iPhone 4S",
-          "display": 400,
-          "displayGlass": 400,
-          "battery": 300,
-          "body": 200,
-          "bodyGlass": 100,
-          "micro": 150,
-          "speaker": 150,
-          "mainCamera": 150,
-          "frontCamera": 100,
-          "homeBtn": 150,
-          "volumeBtns": 150,
-          "vibro": 100,
-          "cable": 150,
-          "proxiSensor": 150,
-          "water": 200
+          "display": 600,
+          "displayGlass": 600,
+          "battery": 500,
+          "body": 400,
+          "bodyGlass": 200,
+          "micro": 250,
+          "speaker": 250,
+          "mainCamera": 250,
+          "frontCamera": 200,
+          "homeBtn": 250,
+          "volumeBtns": 250,
+          "vibro": 300,
+          "cable": 250,
+          "proxiSensor": 250,
+          "water": 300
         },
         "iphone5": {
           "name": "iPhone 5",
-          "display": "900/700",
-          "displayGlass": 600,
-          "battery": 400,
-          "body": 400,
-          "micro": 250,
-          "speaker": 200,
-          "mainCamera": 300,
-          "frontCamera": 300,
-          "homeBtn": 200,
-          "volumeBtns": 200,
-          "vibro": 100,
-          "cable": 200,
-          "proxiSensor": 300,
-          "water": 200
+          "display": "1300/1000",
+          "displayGlass": 1000,
+          "battery": 700,
+          "body": 600,
+          "micro": 350,
+          "speaker": 300,
+          "mainCamera": 400,
+          "frontCamera": 400,
+          "homeBtn": 300,
+          "volumeBtns": 300,
+          "vibro": 300,
+          "cable": 300,
+          "proxiSensor": 400,
+          "water": 300
         },
         "iphone5c": {
           "name": "iPhone 5C",
-          "display": "800/500",
-          "displayGlass": 500,
-          "battery": 400,
-          "body": 400,
-          "micro": 250,
-          "speaker": 200,
-          "mainCamera": 300,
-          "frontCamera": 300,
-          "homeBtn": 200,
-          "volumeBtns": 200,
-          "vibro": 100,
-          "cable": 200,
-          "proxiSensor": 300,
-          "water": 200
+          "display": "1300/1000",
+          "displayGlass": 1000,
+          "battery": 700,
+          "body": 600,
+          "micro": 350,
+          "speaker": 300,
+          "mainCamera": 400,
+          "frontCamera": 400,
+          "homeBtn": 300,
+          "volumeBtns": 300,
+          "vibro": 300,
+          "cable": 300,
+          "proxiSensor": 400,
+          "water": 300
         },
         "iphone5s": {
           "name": "iPhone 5S",
-          "display": "1000/800",
-          "displayGlass": 700,
-          "battery": 400,
-          "body": 400,
-          "micro": 250,
-          "speaker": 200,
-          "mainCamera": 300,
-          "frontCamera": 300,
-          "homeBtn": 200,
-          "volumeBtns": 200,
-          "vibro": 100,
-          "cable": 200,
-          "proxiSensor": 300,
-          "water": 200
+          "display": "1300/1000",
+          "displayGlass": 1000,
+          "battery": 700,
+          "body": 600,
+          "micro": 350,
+          "speaker": 300,
+          "mainCamera": 400,
+          "frontCamera": 400,
+          "homeBtn": 300,
+          "volumeBtns": 300,
+          "vibro": 300,
+          "cable": 300,
+          "proxiSensor": 400,
+          "water": 300
         },
         "iphone6": {
           "name": "iPhone 6",
-          "display": "1000/900",
-          "displayGlass": 900,
-          "battery": 500,
-          "body": 500,
-          "micro": 300,
-          "speaker": 200,
-          "mainCamera": 300,
-          "frontCamera": 200,
-          "homeBtn": 200,
-          "volumeBtns": 200,
-          "vibro": 100,
-          "cable": 300,
-          "proxiSensor": 200,
-          "water": 200
+          "display": "1500/1200",
+          "displayGlass": 1200,
+          "battery": 700,
+          "body": 700,
+          "micro": 400,
+          "speaker": 300,
+          "mainCamera": 500,
+          "frontCamera": 500,
+          "homeBtn": 300,
+          "volumeBtns": 300,
+          "vibro": 200,
+          "cable": 400,
+          "proxiSensor": 400,
+          "water": 300
         },
         "iphone6plus": {
           "name": "iPhone 6 Plus",
-          "display": "1200/1000",
-          "displayGlass": 1000,
-          "battery": 500,
-          "body": 500,
-          "micro": 300,
-          "speaker": 200,
-          "mainCamera": 500,
-          "frontCamera": 300,
-          "homeBtn": 200,
-          "volumeBtns": 200,
-          "vibro": 100,
-          "cable": 300,
-          "proxiSensor": 300,
-          "water": 200
-        },
-        "iphonese": {
-          "name": "iPhone SE",
-          "display": "1000",
-          "displayGlass": 1000,
-          "battery": 500,
-          "body": 700,
-          "micro": 300,
-          "speaker": 200,
-          "mainCamera": 400,
-          "frontCamera": 300,
-          "homeBtn": 300,
-          "volumeBtns": 300,
-          "vibro": 100,
-          "cable": 300,
-          "proxiSensor": 300,
-          "water": 200
-        },
-        "iphone6s": {
-          "name": "iPhone 6S",
-          "display": "1400/1200",
-          "displayGlass": 1100,
-          "battery": 600,
-          "body": 700,
-          "micro": 500,
-          "speaker": 200,
-          "mainCamera": 800,
-          "frontCamera": 500,
-          "homeBtn": 300,
-          "volumeBtns": 300,
-          "vibro": 200,
-          "cable": 500,
-          "proxiSensor": 500,
-          "water": 200
-        },
-        "iphone6splus": {
-          "name": "iPhone 6S Plus",
-          "display": "1500/1200",
-          "displayGlass": 1200,
-          "battery": 600,
-          "body": 700,
-          "micro": 600,
-          "speaker": 300,
-          "mainCamera": 800,
-          "frontCamera": 500,
-          "homeBtn": 300,
-          "volumeBtns": 300,
-          "vibro": 200,
-          "cable": 600,
-          "proxiSensor": 500,
-          "water": 200
-        },
-        "iphone7": {
-          "name": "iPhone 7",
           "display": "1600/1300",
           "displayGlass": 1300,
           "battery": 700,
-          "body": 1000,
-          "cameraGlass": 500,
-          "micro": 500,
-          "speaker": 200,
-          "mainCamera": 1000,
+          "body": 700,
+          "micro": 400,
+          "speaker": 300,
+          "mainCamera": 500,
           "frontCamera": 500,
-          "homeBtn": 500,
-          "volumeBtns": 400,
+          "homeBtn": 300,
+          "volumeBtns": 300,
+          "vibro": 200,
+          "cable": 400,
+          "proxiSensor": 400,
+          "water": 300
+        },
+        "iphonese": {
+          "name": "iPhone SE",
+          "display": "1300",
+          "displayGlass": 1300,
+          "battery": 700,
+          "body": 1000,
+          "micro": 400,
+          "speaker": 300,
+          "mainCamera": 500,
+          "frontCamera": 400,
+          "homeBtn": 300,
+          "volumeBtns": 300,
+          "vibro": 200,
+          "cable": 400,
+          "proxiSensor": 400,
+          "water": 300
+        },
+        "iphone6s": {
+          "name": "iPhone 6S",
+          "display": "1800/1600",
+          "displayGlass": 1600,
+          "battery": 700,
+          "body": 800,
+          "micro": 600,
+          "speaker": 300,
+          "mainCamera": 1000,
+          "frontCamera": 600,
+          "homeBtn": 300,
+          "volumeBtns": 300,
           "vibro": 200,
           "cable": 500,
           "proxiSensor": 500,
-          "water": 200
+          "water": 300
+        },
+        "iphone6splus": {
+          "name": "iPhone 6S Plus",
+          "display": "1800/1600",
+          "displayGlass": 1600,
+          "battery": 700,
+          "body": 800,
+          "micro": 600,
+          "speaker": 300,
+          "mainCamera": 1000,
+          "frontCamera": 600,
+          "homeBtn": 300,
+          "volumeBtns": 300,
+          "vibro": 200,
+          "cable": 500,
+          "proxiSensor": 500,
+          "water": 300
+        },
+        "iphone7": {
+          "name": "iPhone 7",
+          "display": "2000/1700",
+          "displayGlass": 1700,
+          "battery": 800,
+          "body": 1200,
+          "cameraGlass": 500,
+          "micro": 600,
+          "speaker": 300,
+          "mainCamera": 1000,
+          "frontCamera": 600,
+          "homeBtn": 700,
+          "volumeBtns": 500,
+          "vibro": 200,
+          "cable": 600,
+          "proxiSensor": 600,
+          "water": 300
         },
         "iphone7plus": {
           "name": "iPhone 7 Plus",
-          "display": "1900/1500",
-          "displayGlass": 1500,
-          "battery": 700,
-          "body": 1100,
+          "display": "2000/1700",
+          "displayGlass": 1700,
+          "battery": 800,
+          "body": 1200,
           "cameraGlass": 500,
-          "micro": 800,
-          "speaker": 200,
-          "mainCamera": 1500,
-          "frontCamera": 800,
-          "homeBtn": 500,
+          "micro": 600,
+          "speaker": 300,
+          "mainCamera": 1000,
+          "frontCamera": 600,
+          "homeBtn": 700,
           "volumeBtns": 500,
-          "vibro": 300,
-          "cable": 800,
-          "proxiSensor": 800,
-          "water": 200
+          "vibro": 200,
+          "cable": 600,
+          "proxiSensor": 600,
+          "water": 300
         },
         "iphonese2020": {
           "name": "iPhone SE 2020",
-          "display": "1900/1300",
-          "displayGlass": 1500,
-          "battery": 800,
-          "body": 1500,
-          "bodyGlass": 1000,
+          "display": "2200/1900",
+          "displayGlass": 1900,
+          "battery": 1000,
+          "body": 1200,
           "cameraGlass": 500,
           "micro": 600,
-          "speaker": 400,
-          "mainCamera": 1500,
+          "speaker": 300,
+          "mainCamera": 1000,
           "frontCamera": 600,
-          "homeBtn": 500,
+          "homeBtn": 700,
           "volumeBtns": 500,
-          "vibro": 400,
+          "vibro": 200,
           "cable": 600,
           "proxiSensor": 600,
-          "water": 200
+          "water": 300
         },
         "iphone8": {
           "name": "iPhone 8",
-          "display": "1900/1300",
-          "displayGlass": 1500,
+          "display": "2200/1900",
+          "displayGlass": 1900,
           "battery": 800,
-          "body": 1500,
-          "bodyGlass": 1000,
+          "body": 1200,
           "cameraGlass": 500,
-          "micro": 800,
-          "speaker": 400,
-          "mainCamera": 1500,
-          "frontCamera": 800,
-          "homeBtn": 500,
-          "volumeBtns": 600,
-          "vibro": 300,
-          "cable": 800,
-          "proxiSensor": 800,
-          "water": 200
+          "micro": 600,
+          "speaker": 300,
+          "mainCamera": 1000,
+          "frontCamera": 600,
+          "homeBtn": 700,
+          "volumeBtns": 500,
+          "vibro": 200,
+          "cable": 600,
+          "proxiSensor": 600,
+          "water": 300
         },
         "iphone8plus": {
           "name": "iPhone 8 Plus",
-          "display": "2000/1500",
-          "displayGlass": 1500,
-          "battery": 1000,
-          "body": 1500,
-          "bodyGlass": 1000,
+          "display": "2500/2200",
+          "displayGlass": 2200,
+          "battery": 900,
+          "body": 1200,
           "cameraGlass": 500,
-          "micro": 800,
-          "speaker": 400,
-          "mainCamera": 1500,
-          "frontCamera": 800,
-          "homeBtn": 500,
-          "volumeBtns": 600,
-          "vibro": 400,
-          "cable": 800,
-          "proxiSensor": 800,
-          "water": 200
+          "micro": 600,
+          "speaker": 300,
+          "mainCamera": 1000,
+          "frontCamera": 600,
+          "homeBtn": 700,
+          "volumeBtns": 500,
+          "vibro": 200,
+          "cable": 600,
+          "proxiSensor": 600,
+          "water": 300
         },
         "iphonex": {
           "name": "iPhone X",
-          "display": "4000/2500",
-          "displayGlass": "2200/2700",
-          "battery": 1000,
-          "body": 1800,
-          "bodyGlass": 1000,
+          "display": "5500/4000",
+          "displayGlass": "3700/4200",
+          "battery": 1200,
+          "body": 2000,
+          "bodyGlass": 1200,
           "cameraGlass": 500,
-          "micro": 600,
-          "speaker": 400,
-          "mainCamera": 2000,
-          "frontCamera": 600,
-          "faceId": 2000,
-          "volumeBtns": 600,
-          "vibro": 400,
-          "cable": 600,
-          "proxiSensor": 600,
-          "water": 200
+          "micro": 800,
+          "speaker": 600,
+          "mainCamera": 2500,
+          "frontCamera": 800,
+          "faceId": 2800,
+          "volumeBtns": 800,
+          "vibro": 600,
+          "cable": 800,
+          "proxiSensor": 800,
+          "water": 300
         },
         "iphonexr": {
           "name": "iPhone Xr",
-          "display": "3000/2000",
-          "displayGlass": "2600/3000",
-          "battery": 1000,
-          "body": 1500,
-          "bodyGlass": 1000,
+          "display": "4000/3000",
+          "displayGlass": "3600/4000",
+          "battery": 1200,
+          "body": 2000,
+          "bodyGlass": 1200,
           "cameraGlass": 500,
           "micro": 800,
           "speaker": 400,
-          "mainCamera": 2000,
+          "mainCamera": 2500,
           "frontCamera": 800,
-          "faceId": 2000,
+          "faceId": 2800,
           "volumeBtns": 600,
           "vibro": 400,
           "cable": 800,
           "proxiSensor": 800,
-          "water": 200
+          "water": 300
         },
         "iphonexs": {
           "name": "iPhone Xs",
-          "display": "4000/2500",
-          "displayGlass": "2200/2700",
+          "display": "5500/4000",
+          "displayGlass": "3700/4200",
           "battery": 1200,
-          "body": 1500,
-          "bodyGlass": 1000,
+          "body": 2000,
+          "bodyGlass": 1200,
           "cameraGlass": 500,
           "micro": 800,
-          "speaker": 400,
-          "mainCamera": 2000,
+          "speaker": 600,
+          "mainCamera": 2500,
           "frontCamera": 800,
-          "faceId": 2000,
+          "faceId": 2800,
           "volumeBtns": 800,
-          "vibro": 400,
+          "vibro": 600,
           "cable": 800,
           "proxiSensor": 800,
-          "water": 200
+          "water": 300
         },
         "iphonexsmax": {
           "name": "iPhone Xs Max",
-          "display": "5500/3500",
-          "displayGlass": "3000/3500",
-          "battery": 1200,
-          "body": 2000,
-          "bodyGlass": 1000,
+          "display": "7000/5000",
+          "displayGlass": "4500/4000",
+          "battery": 1400,
+          "body": 3000,
+          "bodyGlass": 1200,
           "cameraGlass": 500,
-          "micro": 800,
-          "speaker": 600,
-          "mainCamera": 2000,
-          "frontCamera": 800,
-          "faceId": 2000,
-          "volumeBtns": 800,
-          "vibro": 400,
-          "cable": 800,
-          "proxiSensor": 800,
-          "water": 200
+          "micro": 1000,
+          "speaker": 300,
+          "mainCamera": 2500,
+          "frontCamera": 1000,
+          "faceId": 2800,
+          "volumeBtns": 1000,
+          "vibro": 600,
+          "cable": 1000,
+          "proxiSensor": 1000,
+          "water": 300
         },
         "iphone11": {
           "name": "iPhone 11",
-          "display": "3700/2800",
-          "displayGlass": "2700/3200",
-          "battery": 1200,
-          "body": 2500,
-          "bodyGlass": 1600,
-          "cameraGlass": 500,
-          "micro": 800,
-          "speaker": 600,
-          "mainCamera": 2000,
-          "frontCamera": 800,
-          "faceId": 2000,
-          "volumeBtns": 800,
-          "vibro": 600,
-          "cable": 800,
-          "proxiSensor": 800,
-          "water": 200
-        },
-        "iphone11pro": {
-          "name": "iPhone 11 Pro",
-          "display": "7900/5000",
-          "displayGlass": "3700/4500",
-          "battery": 1500,
+          "display": "5200/4300",
+          "displayGlass": "4200/4700",
+          "battery": 1400,
           "body": 3000,
           "bodyGlass": 1800,
-          "cameraGlass": 500,
-          "micro": 800,
-          "speaker": 600,
-          "mainCamera": 2000,
-          "frontCamera": 800,
-          "faceId": 2000,
-          "volumeBtns": 800,
-          "vibro": 600,
-          "cable": 800,
-          "proxiSensor": 800,
-          "water": 200
-        },
-        "iphone11promax": {
-          "name": "iPhone 11 Pro Max",
-          "display": "8500/5000",
-          "displayGlass": "5400/5000",
-          "battery": 1500,
-          "body": 3000,
-          "bodyGlass": 1800,
-          "cameraGlass": 500,
-          "micro": 800,
-          "speaker": 600,
-          "mainCamera": 2000,
-          "frontCamera": 800,
-          "faceId": 2000,
-          "volumeBtns": 800,
-          "vibro": 600,
-          "cable": 800,
-          "proxiSensor": 800,
-          "water": 200
-        },
-        "iphone12mini": {
-          "name": "iPhone 12 mini",
-          "display": "8300/6900",
-          "displayGlass": "3500/4000",
-          "battery": 1600,
-          "body": 4000,
-          "bodyGlass": 2200,
           "cameraGlass": 500,
           "micro": 1000,
-          "speaker": 800,
+          "speaker": 300,
           "mainCamera": 2500,
           "frontCamera": 1000,
-          "faceId": 2000,
+          "faceId": 2800,
           "volumeBtns": 1000,
           "vibro": 800,
           "cable": 1000,
           "proxiSensor": 1000,
-          "water": 200
+          "water": 300
         },
-        "iphone12": {
-          "name": "iPhone 12",
-          "display": "10800",
-          "displayGlass": "6400/5400",
-          "battery": 1800,
-          "body": 5400,
-          "bodyGlass": 2500,
-          "cameraGlass": 500,
-          "micro": 1400,
-          "speaker": 800,
-          "mainCamera": 2500,
-          "frontCamera": 2000,
-          "faceId": 2000,
-          "volumeBtns": 1000,
-          "vibro": 800,
-          "cable": 1400,
-          "proxiSensor": 2000,
-          "water": 200
-        },
-        "iphone12pro": {
-          "name": "iPhone 12 Pro",
-          "display": "10800",
-          "displayGlass": "6400/5400",
-          "battery": 1800,
-          "body": 7500,
-          "bodyGlass": 2500,
-          "cameraGlass": 500,
-          "micro": 1400,
-          "speaker": 1000,
-          "mainCamera": 3000,
-          "frontCamera": 2000,
-          "faceId": 2000,
-          "volumeBtns": 1200,
-          "vibro": 800,
-          "cable": 1400,
-          "proxiSensor": 2000,
-          "water": 200
-        },
-        "iphone12promax": {
-          "name": "iPhone 12 Pro Max",
-          "display": "12700",
-          "displayGlass": 6000,
-          "battery": 1800,
-          "body": 8100,
-          "bodyGlass": 2500,
-          "cameraGlass": 500,
-          "micro": 1400,
-          "speaker": 1000,
-          "mainCamera": 3000,
-          "frontCamera": 2000,
-          "faceId": 2000,
-          "volumeBtns": 1200,
-          "vibro": 800,
-          "cable": 1400,
-          "proxiSensor": 2000,
-          "water": 200
-        },
-        "iphone13mini": {
-          "name": "iPhone 13 mini",
-          "display": "12500",
-          "displayGlass": 6000,
-          "battery": 1900,
+        "iphone11pro": {
+          "name": "iPhone 11 Pro",
+          "display": "9400/6500",
+          "displayGlass": "5200/6000",
+          "battery": 1700,
           "body": 4000,
           "bodyGlass": 2000,
           "cameraGlass": 500,
-          "micro": 1500,
+          "micro": 1000,
+          "speaker": 300,
+          "mainCamera": 2500,
+          "frontCamera": 1000,
+          "faceId": 2800,
+          "volumeBtns": 1000,
+          "vibro": 800,
+          "cable": 1000,
+          "proxiSensor": 1000,
+          "water": 300
+        },
+        "iphone11promax": {
+          "name": "iPhone 11 Pro Max",
+          "display": "10000/6500",
+          "displayGlass": "6900/6500",
+          "battery": 1700,
+          "body": 3500,
+          "bodyGlass": 2000,
+          "cameraGlass": 500,
+          "micro": 1000,
+          "speaker": 300,
+          "mainCamera": 2500,
+          "frontCamera": 1000,
+          "faceId": 2800,
+          "volumeBtns": 1000,
+          "vibro": 800,
+          "cable": 1000,
+          "proxiSensor": 1000,
+          "water": 300
+        },
+        "iphone12mini": {
+          "name": "iPhone 12 mini",
+          "display": "9800/8300",
+          "displayGlass": "5000/5500",
+          "battery": 1800,
+          "body": 5000,
+          "bodyGlass": 2500,
+          "cameraGlass": 500,
+          "micro": 1200,
           "speaker": 1000,
           "mainCamera": 3000,
-          "frontCamera": 2000,
-          "faceId": 2000,
+          "frontCamera": 1200,
+          "faceId": 2800,
           "volumeBtns": 1200,
           "vibro": 1000,
-          "cable": 1500,
-          "proxiSensor": 2000,
-          "water": 200
+          "cable": 1200,
+          "proxiSensor": 1200,
+          "water": 300
+        },
+        "iphone12": {
+          "name": "iPhone 12",
+          "display": "12300",
+          "displayGlass": "7900/6900",
+          "battery": 2000,
+          "body": 6000,
+          "bodyGlass": 3000,
+          "cameraGlass": 500,
+          "micro": 1600,
+          "speaker": 1000,
+          "mainCamera": 3000,
+          "frontCamera": 2200,
+          "faceId": 2800,
+          "volumeBtns": 1200,
+          "vibro": 1000,
+          "cable": 1600,
+          "proxiSensor": 2200,
+          "water": 300
+        },
+        "iphone12pro": {
+          "name": "iPhone 12 Pro",
+          "display": "12300",
+          "displayGlass": "7900/6900",
+          "battery": 2000,
+          "body": 8500,
+          "bodyGlass": 3000,
+          "cameraGlass": 500,
+          "micro": 1600,
+          "speaker": 1200,
+          "mainCamera": 3500,
+          "frontCamera": 2200,
+          "faceId": 2800,
+          "volumeBtns": 1400,
+          "vibro": 1000,
+          "cable": 1600,
+          "proxiSensor": 2200,
+          "water": 300
+        },
+        "iphone12promax": {
+          "name": "iPhone 12 Pro Max",
+          "display": "14200",
+          "displayGlass": 8000,
+          "battery": 2000,
+          "body": 9000,
+          "bodyGlass": 3000,
+          "cameraGlass": 500,
+          "micro": 1600,
+          "speaker": 1200,
+          "mainCamera": 3500,
+          "frontCamera": 2200,
+          "faceId": 2800,
+          "volumeBtns": 1400,
+          "vibro": 1000,
+          "cable": 1600,
+          "proxiSensor": 2200,
+          "water": 300
+        },
+        "iphone13mini": {
+          "name": "iPhone 13 mini",
+          "display": "14000",
+          "displayGlass": 7500,
+          "battery": 2100,
+          "body": 5000,
+          "bodyGlass": 2500,
+          "cameraGlass": 500,
+          "micro": 1700,
+          "speaker": 1200,
+          "mainCamera": 3500,
+          "frontCamera": 2200,
+          "faceId": 2800,
+          "volumeBtns": 1400,
+          "vibro": 1200,
+          "cable": 1700,
+          "proxiSensor": 2200,
+          "water": 300
         },
         "iphone13": {
           "name": "iPhone 13",
-          "display": "14900",
-          "displayGlass": 6000,
-          "battery": 2000,
-          "body": 6000,
-          "bodyGlass": 2000,
+          "display": "15900",
+          "displayGlass": 8000,
+          "battery": 2500,
+          "body": 8000,
+          "bodyGlass": 2500,
           "cameraGlass": 500,
-          "micro": 1500,
-          "speaker": 1200,
-          "mainCamera": 3000,
-          "frontCamera": 2000,
-          "faceId": 2000,
-          "volumeBtns": 1400,
-          "vibro": 1000,
-          "cable": 1500,
-          "proxiSensor": 2000,
-          "water": 200
+          "micro": 1700,
+          "speaker": 1400,
+          "mainCamera": 3500,
+          "frontCamera": 2200,
+          "faceId": 2800,
+          "volumeBtns": 1600,
+          "vibro": 1200,
+          "cable": 1700,
+          "proxiSensor": 2200,
+          "water": 300
         },
         "iphone13pro": {
           "name": "iPhone 13 Pro",
-          "display": "15000",
-          "displayGlass": 8000,
-          "battery": 3000,
-          "body": 5000,
-          "bodyGlass": 3000,
+          "display": "16500",
+          "displayGlass": 9500,
+          "battery": 3500,
+          "body": 5500,
+          "bodyGlass": 3500,
           "cameraGlass": 500,
-          "micro": 1500,
-          "speaker": 1000,
-          "mainCamera": 3000,
-          "frontCamera": 2000,
-          "faceId": 2000,
-          "volumeBtns": 1200,
-          "vibro": 800,
-          "cable": 1500,
-          "proxiSensor": 2000,
-          "water": 200
+          "micro": 1700,
+          "speaker": 1200,
+          "mainCamera": 3500,
+          "frontCamera": 2200,
+          "faceId": 2800,
+          "volumeBtns": 1400,
+          "vibro": 1000,
+          "cable": 1700,
+          "proxiSensor": 2200,
+          "water": 300
         },
         "iphone13promax": {
           "name": "iPhone 13 Pro Max",
-          "display": "15000",
-          "displayGlass": 8000,
-          "battery": 3000,
-          "body": 7000,
-          "bodyGlass": 3000,
+          "display": "16500",
+          "displayGlass": 9500,
+          "battery": 3500,
+          "body": 8000,
+          "bodyGlass": 3500,
           "cameraGlass": 500,
-          "micro": 1500,
-          "speaker": 1000,
-          "mainCamera": 3000,
-          "frontCamera": 2000,
-          "faceId": 2000,
-          "volumeBtns": 1000,
-          "vibro": 1000,
-          "cable": 1500,
-          "proxiSensor": 2000,
-          "water": 200
+          "micro": 1700,
+          "speaker": 1200,
+          "mainCamera": 3500,
+          "frontCamera": 2200,
+          "faceId": 2800,
+          "volumeBtns": 1200,
+          "vibro": 1200,
+          "cable": 1700,
+          "proxiSensor": 2200,
+          "water": 300
         }
       }
     },
@@ -562,407 +559,407 @@
       "data": {
         "ipad2": {
           "name": "iPad 2",
-          "display": 1200,
-          "displayGlass": 800,
-          "battery": 800,
-          "body": 1000,
-          "micro": 500,
-          "speaker": 500,
-          "mainCamera": 500,
-          "frontCamera": 500,
-          "homeBtn": 500,
-          "volumeBtns": 500,
-          "cable": 500,
-          "water": 200
+          "display": 1600,
+          "displayGlass": 1200,
+          "battery": 1200,
+          "body": 1400,
+          "micro": 700,
+          "speaker": 700,
+          "mainCamera": 700,
+          "frontCamera": 700,
+          "homeBtn": 700,
+          "volumeBtns": 700,
+          "cable": 700,
+          "water": 300
         },
         "ipad3": {
           "name": "iPad 3",
-          "display": 1200,
-          "displayGlass": 800,
-          "battery": 800,
-          "body": 1000,
-          "micro": 500,
-          "speaker": 500,
-          "mainCamera": 500,
-          "frontCamera": 500,
-          "homeBtn": 500,
-          "volumeBtns": 500,
-          "cable": 500,
-          "water": 200
+          "display": 1600,
+          "displayGlass": 1200,
+          "battery": 1200,
+          "body": 1400,
+          "micro": 700,
+          "speaker": 700,
+          "mainCamera": 700,
+          "frontCamera": 700,
+          "homeBtn": 700,
+          "volumeBtns": 700,
+          "cable": 700,
+          "water": 300
         },
         "ipad4": {
           "name": "iPad 4",
-          "display": 1200,
-          "displayGlass": 800,
-          "battery": 800,
-          "body": 1000,
-          "micro": 500,
-          "speaker": 500,
-          "mainCamera": 500,
-          "frontCamera": 500,
-          "homeBtn": 500,
-          "volumeBtns": 500,
-          "cable": 500,
-          "water": 200
+          "display": 1600,
+          "displayGlass": 1200,
+          "battery": 1200,
+          "body": 1400,
+          "micro": 700,
+          "speaker": 700,
+          "mainCamera": 700,
+          "frontCamera": 700,
+          "homeBtn": 700,
+          "volumeBtns": 700,
+          "cable": 700,
+          "water": 300
         },
         "ipadmini": {
           "name": "iPad mini",
-          "display": 1200,
-          "displayGlass": 800,
-          "battery": 800,
-          "body": 1000,
-          "micro": 500,
-          "speaker": 500,
-          "mainCamera": 500,
-          "frontCamera": 500,
-          "homeBtn": 500,
-          "volumeBtns": 500,
-          "cable": 500,
-          "water": 200
+          "display": 1600,
+          "displayGlass": 1200,
+          "battery": 1000,
+          "body": 1200,
+          "micro": 700,
+          "speaker": 700,
+          "mainCamera": 700,
+          "frontCamera": 700,
+          "homeBtn": 700,
+          "volumeBtns": 700,
+          "cable": 700,
+          "water": 300
         },
         "ipadair": {
           "name": "iPad Air",
-          "display": 2000,
-          "displayGlass": 1200,
-          "battery": 1200,
-          "body": 1500,
-          "micro": 600,
-          "speaker": 600,
-          "mainCamera": 600,
-          "frontCamera": 600,
-          "homeBtn": 600,
-          "volumeBtns": 600,
-          "cable": 800,
-          "water": 200
-        },
-        "ipadmini2": {
-          "name": "iPad mini 2",
-          "display": 2000,
-          "displayGlass": 800,
-          "battery": 800,
-          "body": 1000,
-          "micro": 500,
-          "speaker": 500,
-          "mainCamera": 500,
-          "frontCamera": 500,
-          "homeBtn": 500,
-          "volumeBtns": 500,
-          "cable": 800,
-          "water": 200
-        },
-        "ipadair2": {
-          "name": "iPad Air 2",
-          "display": 4000,
-          "displayGlass": 3000,
-          "battery": 2000,
+          "display": 2400,
+          "displayGlass": 1600,
+          "battery": 1600,
           "body": 2000,
-          "micro": 900,
-          "speaker": 600,
-          "mainCamera": 900,
-          "frontCamera": 900,
-          "homeBtn": 900,
-          "volumeBtns": 900,
-          "cable": 1500,
-          "water": 200
-        },
-        "ipadmini3": {
-          "name": "iPad mini 3",
-          "display": 2000,
-          "displayGlass": 1000,
-          "battery": 800,
-          "body": 1000,
-          "micro": 500,
-          "speaker": 500,
-          "mainCamera": 500,
-          "frontCamera": 500,
-          "homeBtn": 500,
-          "volumeBtns": 500,
-          "cable": 500,
-          "water": 200
-        },
-        "ipadpro12.9": {
-          "name": "iPad Pro 12.9",
-          "display": 8300,
-          "displayGlass": 6000,
-          "battery": 2500,
-          "body": 5400,
-          "micro": 1600,
-          "speaker": 1000,
-          "mainCamera": 1600,
-          "frontCamera": 1500,
-          "homeBtn": 1600,
-          "volumeBtns": 1600,
-          "cable": 1600,
-          "water": 200
-        },
-        "ipadmini4": {
-          "name": "iPad mini 4",
-          "display": 4000,
-          "displayGlass": 2000,
-          "battery": 1500,
-          "body": 2000,
-          "micro": 900,
-          "speaker": 900,
-          "mainCamera": 900,
-          "frontCamera": 800,
-          "homeBtn": 800,
-          "volumeBtns": 900,
-          "cable": 1000,
-          "water": 200
-        },
-        "ipadpro9.7": {
-          "name": "iPad Pro 9.7",
-          "display": 6000,
-          "displayGlass": 4000,
-          "battery": 2500,
-          "body": 5000,
-          "micro": 1200,
-          "speaker": 1000,
-          "mainCamera": 1200,
-          "frontCamera": 1200,
-          "homeBtn": 1200,
-          "volumeBtns": 1200,
-          "cable": 1500,
-          "water": 200
-        },
-        "ipad5": {
-          "name": "iPad 5",
-          "display": 2000,
-          "displayGlass": 1200,
-          "battery": 1500,
-          "body": 3000,
-          "cameraGlass": 500,
           "micro": 800,
-          "speaker": 800,
+          "speaker": 300,
           "mainCamera": 800,
           "frontCamera": 800,
           "homeBtn": 800,
           "volumeBtns": 800,
-          "cable": 1200,
-          "water": 200
+          "cable": 1000,
+          "water": 300
         },
-        "ipadpro210.5": {
-          "name": "iPad Pro 2 10.5",
-          "display": 10000,
-          "displayGlass": 6000,
+        "ipadmini2": {
+          "name": "iPad mini 2",
+          "display": 2400,
+          "displayGlass": 1200,
+          "battery": 1200,
+          "body": 1400,
+          "micro": 700,
+          "speaker": 700,
+          "mainCamera": 700,
+          "frontCamera": 700,
+          "homeBtn": 700,
+          "volumeBtns": 700,
+          "cable": 1000,
+          "water": 300
+        },
+        "ipadair2": {
+          "name": "iPad Air 2",
+          "display": 5000,
+          "displayGlass": 4000,
           "battery": 2500,
-          "body": 5400,
-          "cameraGlass": 500,
-          "micro": 1400,
-          "speaker": 1000,
-          "mainCamera": 1800,
-          "frontCamera": 1400,
-          "homeBtn": 1600,
-          "volumeBtns": 1400,
-          "cable": 1800,
-          "water": 200
-        },
-        "ipadpro212.9": {
-          "name": "iPad Pro 2 12.9",
-          "display": 15000,
-          "displayGlass": 8000,
-          "battery": 2800,
-          "body": 5400,
-          "cameraGlass": 500,
+          "body": 2500,
           "micro": 1200,
-          "speaker": 1200,
-          "mainCamera": 1600,
-          "frontCamera": 1400,
+          "speaker": 300,
+          "mainCamera": 1200,
+          "frontCamera": 1200,
           "homeBtn": 1200,
           "volumeBtns": 1200,
-          "cable": 1600,
-          "water": 200
+          "cable": 1700,
+          "water": 300
         },
-        "ipad62018": {
-          "name": "iPad 6 2018",
-          "display": 4500,
-          "displayGlass": 2000,
-          "battery": 2500,
-          "body": 5400,
-          "micro": 1500,
-          "speaker": 1000,
-          "mainCamera": 1500,
-          "frontCamera": 1200,
-          "homeBtn": 1000,
-          "volumeBtns": 1500,
-          "cable": 1500,
-          "water": 200
+        "ipadmini3": {
+          "name": "iPad mini 3",
+          "display": 3000,
+          "displayGlass": 1500,
+          "battery": 1200,
+          "body": 1200,
+          "micro": 700,
+          "speaker": 700,
+          "mainCamera": 700,
+          "frontCamera": 700,
+          "homeBtn": 700,
+          "volumeBtns": 700,
+          "cable": 700,
+          "water": 300
         },
-        "ipadpro112018": {
-          "name": "iPad Pro 11 2018",
-          "display": 10000,
-          "displayGlass": 5000,
-          "battery": 3200,
+        "ipadpro12.9": {
+          "name": "iPad Pro 12.9",
+          "display": 9800,
+          "displayGlass": 7500,
+          "battery": 3000,
           "body": 6000,
-          "cameraGlass": 500,
-          "micro": 1600,
-          "speaker": 1400,
-          "mainCamera": 2000,
-          "frontCamera": 1600,
-          "homeBtn": 1600,
-          "volumeBtns": 1600,
-          "cable": 2000,
-          "water": 200
-        },
-        "ipadpro12.92018": {
-          "name": "iPad Pro 12.9 2018",
-          "display": 12000,
-          "displayGlass": 8000,
-          "battery": 3500,
-          "body": 7000,
-          "cameraGlass": 500,
-          "micro": 1800,
-          "speaker": 1500,
-          "mainCamera": 2000,
+          "micro": 1900,
+          "speaker": 1300,
+          "mainCamera": 1900,
           "frontCamera": 1800,
-          "homeBtn": 1800,
-          "volumeBtns": 1800,
-          "cable": 2000,
-          "water": 200
+          "homeBtn": 1900,
+          "volumeBtns": 1900,
+          "cable": 1900,
+          "water": 300
         },
-        "ipadair32019": {
-          "name": "iPad Air 3 2019",
-          "display": 6000,
-          "displayGlass": 3000,
-          "battery": 2200,
-          "body": 4000,
-          "cameraGlass": 500,
-          "micro": 1000,
-          "speaker": 800,
-          "mainCamera": 1200,
-          "frontCamera": 1000,
-          "homeBtn": 1000,
-          "volumeBtns": 1000,
-          "cable": 1200,
-          "water": 200
-        },
-        "ipadmini5": {
-          "name": "iPad mini 5",
+        "ipadmini4": {
+          "name": "iPad mini 4",
           "display": 5000,
           "displayGlass": 3000,
           "battery": 2000,
+          "body": 2500,
+          "micro": 1200,
+          "speaker": 1200,
+          "mainCamera": 1200,
+          "frontCamera": 1100,
+          "homeBtn": 1100,
+          "volumeBtns": 1200,
+          "cable": 1300,
+          "water": 300
+        },
+        "ipadpro9.7": {
+          "name": "iPad Pro 9.7",
+          "display": 7500,
+          "displayGlass": 5500,
+          "battery": 3500,
+          "body": 5500,
+          "micro": 1500,
+          "speaker": 1300,
+          "mainCamera": 1500,
+          "frontCamera": 1500,
+          "homeBtn": 1500,
+          "volumeBtns": 1500,
+          "cable": 1800,
+          "water": 300
+        },
+        "ipad5": {
+          "name": "iPad 5",
+          "display": 3000,
+          "displayGlass": 2200,
+          "battery": 2000,
+          "body": 4000,
+          "cameraGlass": 700,
+          "micro": 1100,
+          "speaker": 1100,
+          "mainCamera": 1100,
+          "frontCamera": 1100,
+          "homeBtn": 1100,
+          "volumeBtns": 1100,
+          "cable": 1800,
+          "water": 300
+        },
+        "ipadpro210.5": {
+          "name": "iPad Pro 2 10.5",
+          "display": 12000,
+          "displayGlass": 8000,
+          "battery": 3000,
+          "body": 6000,
+          "cameraGlass": 500,
+          "micro": 1700,
+          "speaker": 1300,
+          "mainCamera": 2100,
+          "frontCamera": 1700,
+          "homeBtn": 1900,
+          "volumeBtns": 1700,
+          "cable": 2100,
+          "water": 300
+        },
+        "ipadpro212.9": {
+          "name": "iPad Pro 2 12.9",
+          "display": 18000,
+          "displayGlass": 11000,
+          "battery": 3500,
+          "body": 6500,
+          "cameraGlass": 500,
+          "micro": 1500,
+          "speaker": 1500,
+          "mainCamera": 1900,
+          "frontCamera": 1800,
+          "homeBtn": 1500,
+          "volumeBtns": 1500,
+          "cable": 1800,
+          "water": 300
+        },
+        "ipad62018": {
+          "name": "iPad 6 2018",
+          "display": 6000,
+          "displayGlass": 3000,
+          "battery": 3000,
+          "body": 6000,
+          "micro": 1800,
+          "speaker": 1300,
+          "mainCamera": 1800,
+          "frontCamera": 1500,
+          "homeBtn": 1300,
+          "volumeBtns": 1800,
+          "cable": 1800,
+          "water": 300
+        },
+        "ipadpro112018": {
+          "name": "iPad Pro 11 2018",
+          "display": 13000,
+          "displayGlass": 7000,
+          "battery": 4000,
+          "body": 7000,
+          "cameraGlass": 500,
+          "micro": 1800,
+          "speaker": 1700,
+          "mainCamera": 2300,
+          "frontCamera": 1900,
+          "homeBtn": 1900,
+          "volumeBtns": 1900,
+          "cable": 2300,
+          "water": 300
+        },
+        "ipadpro12.92018": {
+          "name": "iPad Pro 12.9 2018",
+          "display": 14000,
+          "displayGlass": 10000,
+          "battery": 4000,
+          "body": 8000,
+          "cameraGlass": 500,
+          "micro": 2100,
+          "speaker": 1800,
+          "mainCamera": 2300,
+          "frontCamera": 2100,
+          "homeBtn": 2100,
+          "volumeBtns": 2100,
+          "cable": 2300,
+          "water": 300
+        },
+        "ipadair32019": {
+          "name": "iPad Air 3 2019",
+          "display": 8000,
+          "displayGlass": 5000,
+          "battery": 3000,
           "body": 5000,
           "cameraGlass": 500,
-          "micro": 1200,
-          "speaker": 1000,
-          "mainCamera": 1200,
-          "frontCamera": 1000,
-          "homeBtn": 1200,
-          "volumeBtns": 1000,
-          "cable": 1200,
-          "water": 200
+          "micro": 1300,
+          "speaker": 1100,
+          "mainCamera": 1500,
+          "frontCamera": 1300,
+          "homeBtn": 1300,
+          "volumeBtns": 1300,
+          "cable": 1500,
+          "water": 300
+        },
+        "ipadmini5": {
+          "name": "iPad mini 5",
+          "display": 6500,
+          "displayGlass": 4000,
+          "battery": 3000,
+          "body": 6000,
+          "cameraGlass": 500,
+          "micro": 1500,
+          "speaker": 1300,
+          "mainCamera": 1500,
+          "frontCamera": 1300,
+          "homeBtn": 1500,
+          "volumeBtns": 1300,
+          "cable": 1500,
+          "water": 300
         },
         "ipad72019": {
           "name": "iPad 7 2019",
-          "display": 5000,
-          "displayGlass": 2200,
-          "battery": 2200,
-          "body": 5000,
+          "display": 6500,
+          "displayGlass": 3000,
+          "battery": 3000,
+          "body": 6000,
           "cameraGlass": 500,
-          "micro": 1200,
-          "speaker": 1000,
-          "mainCamera": 1500,
-          "frontCamera": 1200,
-          "homeBtn": 1200,
-          "volumeBtns": 1200,
-          "cable": 1500,
-          "water": 200
+          "micro": 1500,
+          "speaker": 1300,
+          "mainCamera": 1800,
+          "frontCamera": 1500,
+          "homeBtn": 1500,
+          "volumeBtns": 1500,
+          "cable": 1800,
+          "water": 300
         },
         "ipad82020": {
           "name": "iPad 8 2020",
-          "display": 5000,
-          "displayGlass": 3000,
-          "battery": 2500,
-          "body": 5000,
+          "display": 6500,
+          "displayGlass": 400,
+          "battery": 3000,
+          "body": 6000,
           "cameraGlass": 500,
-          "micro": 1500,
-          "speaker": 1200,
-          "mainCamera": 1500,
-          "frontCamera": 1200,
-          "homeBtn": 1500,
-          "volumeBtns": 1200,
-          "cable": 1500,
-          "water": 200
+          "micro": 1800,
+          "speaker": 1500,
+          "mainCamera": 1800,
+          "frontCamera": 1800,
+          "homeBtn": 1800,
+          "volumeBtns": 1500,
+          "cable": 1800,
+          "water": 300
         },
         "ipadair42022": {
           "name": "iPad Air 4 2022",
-          "display": 11000,
-          "displayGlass": 6000,
-          "battery": 3300,
-          "body": 7000,
-          "cameraGlass": 500,
-          "micro": 2000,
-          "speaker": 1800,
-          "mainCamera": 2500,
-          "frontCamera": 2000,
-          "faceId": 3000,
-          "volumeBtns": 2500,
-          "cable": 2500,
-          "water": 200
-        },
-        "ipadpro112021": {
-          "name": "iPad Pro 11 2021",
-          "display": 12000,
-          "displayGlass": 8000,
-          "battery": 3500,
-          "body": 7000,
-          "cameraGlass": 500,
-          "micro": 2000,
-          "faceId": 3000,
-          "speaker": 2000,
-          "mainCamera": 3000,
-          "frontCamera": 2200,
-          "volumeBtns": 2000,
-          "cable": 3000,
-          "water": 200
-        },
-        "ipadpro12.92021": {
-          "name": "iPad Pro 12.9 2021",
-          "display": 12000,
+          "display": 14000,
           "displayGlass": 8000,
           "battery": 4000,
           "body": 8000,
+          "cameraGlass": 500,
+          "micro": 2500,
+          "speaker": 2100,
+          "mainCamera": 2800,
+          "frontCamera": 2800,
+          "faceId": 3000,
+          "volumeBtns": 3000,
+          "cable": 3000,
+          "water": 300
+        },
+        "ipadpro112021": {
+          "name": "iPad Pro 11 2021",
+          "display": 14000,
+          "displayGlass": 10000,
+          "battery": 4000,
+          "body": 8000,
+          "cameraGlass": 500,
+          "micro": 2500,
+          "faceId": 3000,
+          "speaker": 2500,
+          "mainCamera": 3500,
+          "frontCamera": 2700,
+          "volumeBtns": 2500,
+          "cable": 3500,
+          "water": 300
+        },
+        "ipadpro12.92021": {
+          "name": "iPad Pro 12.9 2021",
+          "display": 14000,
+          "displayGlass": 10000,
+          "battery": 5000,
+          "body": 9000,
+          "cameraGlass": 500,
+          "micro": 3500,
+          "speaker": 3500,
+          "mainCamera": 4000,
+          "frontCamera": 3500,
+          "faceId": 3000,
+          "volumeBtns": 3500,
+          "cable": 4000,
+          "water": 300
+        },
+        "ipad92021": {
+          "name": "iPad 9 2021",
+          "display": 8000,
+          "displayGlass": 5000,
+          "battery": 3000,
+          "body": 5000,
+          "cameraGlass": 500,
+          "micro": 2300,
+          "speaker": 2000,
+          "mainCamera": 2500,
+          "frontCamera": 2300,
+          "homeBtn": 2500,
+          "volumeBtns": 2300,
+          "cable": 2500,
+          "water": 300
+        },
+        "ipadmini6": {
+          "name": "iPad mini 6",
+          "display": 12000,
+          "displayGlass": 8000,
+          "battery": 3500,
+          "body": 6000,
           "cameraGlass": 500,
           "micro": 3000,
           "speaker": 3000,
           "mainCamera": 3500,
           "frontCamera": 3000,
-          "faceId": 3000,
+          "homeBtn": 3000,
           "volumeBtns": 3000,
           "cable": 3500,
-          "water": 200
-        },
-        "ipad92021": {
-          "name": "iPad 9 2021",
-          "display": 6000,
-          "displayGlass": 4000,
-          "battery": 2200,
-          "body": 4000,
-          "cameraGlass": 500,
-          "micro": 1800,
-          "speaker": 1500,
-          "mainCamera": 2000,
-          "frontCamera": 1800,
-          "homeBtn": 2000,
-          "volumeBtns": 1800,
-          "cable": 2000,
-          "water": 200
-        },
-        "ipadmini6": {
-          "name": "iPad mini 6",
-          "display": 10000,
-          "displayGlass": 7000,
-          "battery": 3000,
-          "body": 5000,
-          "cameraGlass": 500,
-          "micro": 2500,
-          "speaker": 2000,
-          "mainCamera": 3000,
-          "frontCamera": 2500,
-          "homeBtn": 2500,
-          "volumeBtns": 2500,
-          "cable": 3000,
-          "water": 200
+          "water": 300
         }
       }
     },
@@ -971,283 +968,283 @@
       "data": {
         "a1211": {
           "name": "A1211",
-          "displayFrame": 5500,
-          "displayWithout": 3500,
-          "keyboard": 3000,
-          "touchpad": 2000,
-          "cleaning": 500,
-          "cooler": 1000,
-          "termo": 500,
-          "battery": 1500,
-          "micro": 1500,
-          "speaker": 800,
-          "water": 500
+          "displayFrame": 6500,
+          "displayWithout": 4500,
+          "keyboard": 4000,
+          "touchpad": 3000,
+          "cleaning": 800,
+          "cooler": 1500,
+          "termo": 800,
+          "battery": 2000,
+          "micro": 2000,
+          "speaker": 1200,
+          "water": 800
         },
         "a1212": {
           "name": "A1212",
-          "displayFrame": 5500,
-          "displayWithout": 3500,
-          "keyboard": 3000,
-          "touchpad": 2000,
-          "cleaning": 500,
-          "cooler": 1000,
-          "termo": 500,
-          "battery": 1500,
-          "micro": 1500,
-          "speaker": 800,
-          "water": 500
+          "displayFrame": 7000,
+          "displayWithout": 5000,
+          "keyboard": 4000,
+          "touchpad": 3000,
+          "cleaning": 800,
+          "cooler": 1500,
+          "termo": 800,
+          "battery": 2000,
+          "micro": 2000,
+          "speaker": 300,
+          "water": 800
         },
         "a1226": {
           "name": "A1226",
-          "displayFrame": 5500,
-          "displayWithout": 3500,
-          "keyboard": 3000,
-          "touchpad": 2000,
-          "cleaning": 500,
-          "cooler": 1000,
-          "termo": 500,
-          "battery": 1500,
-          "micro": 1500,
-          "speaker": 800,
-          "water": 500
+          "displayFrame": 7000,
+          "displayWithout": 5000,
+          "keyboard": 4000,
+          "touchpad": 3000,
+          "cleaning": 800,
+          "cooler": 1500,
+          "termo": 800,
+          "battery": 2000,
+          "micro": 2000,
+          "speaker": 600,
+          "water": 800
         },
         "a1229": {
           "name": "A1229",
-          "displayFrame": 5500,
-          "displayWithout": 3500,
-          "keyboard": 3000,
-          "touchpad": 2000,
-          "cleaning": 500,
-          "cooler": 1000,
-          "termo": 500,
-          "battery": 1500,
-          "micro": 1500,
-          "speaker": 800,
-          "water": 500
+          "displayFrame": 7000,
+          "displayWithout": 5000,
+          "keyboard": 4000,
+          "touchpad": 3000,
+          "cleaning": 800,
+          "cooler": 1500,
+          "termo": 800,
+          "battery": 2000,
+          "micro": 2000,
+          "speaker": 600,
+          "water": 800
         },
         "a1278": {
           "name": "A1278",
-          "displayFrame": 7000,
-          "displayWithout": 5000,
-          "keyboard": 2500,
-          "touchpad": 2000,
-          "cleaning": 500,
-          "cooler": 1000,
-          "termo": 500,
-          "battery": 2200,
-          "micro": 1500,
-          "speaker": 1200,
-          "water": 500
+          "displayFrame": 8500,
+          "displayWithout": 6500,
+          "keyboard": 3500,
+          "touchpad": 3000,
+          "cleaning": 800,
+          "cooler": 1500,
+          "termo": 800,
+          "battery": 3200,
+          "micro": 2000,
+          "speaker": 1600,
+          "water": 800
         },
         "a1286": {
           "name": "A1286",
-          "displayFrame": 7500,
-          "displayWithout": 5000,
-          "keyboard": 2500,
-          "touchpad": 2000,
-          "cleaning": 500,
-          "cooler": 1000,
-          "termo": 500,
-          "battery": 2200,
-          "micro": 1500,
-          "speaker": 1200,
-          "water": 500
+          "displayFrame": 9000,
+          "displayWithout": 6500,
+          "keyboard": 3500,
+          "touchpad": 3000,
+          "cleaning": 800,
+          "cooler": 1500,
+          "termo": 800,
+          "battery": 3200,
+          "micro": 2000,
+          "speaker": 1600,
+          "water": 800
         },
         "a1297": {
           "name": "A1297",
-          "displayFrame": 5000,
-          "displayWithout": 5000,
-          "keyboard": 2500,
-          "touchpad": 2000,
-          "cleaning": 500,
-          "cooler": 1000,
-          "termo": 500,
-          "battery": 2200,
-          "micro": 1500,
-          "speaker": 1200,
-          "water": 500
+          "displayFrame": 6500,
+          "displayWithout": 6500,
+          "keyboard": 3500,
+          "touchpad": 3000,
+          "cleaning": 800,
+          "cooler": 2000,
+          "termo": 800,
+          "battery": 3200,
+          "micro": 2000,
+          "speaker": 1600,
+          "water": 800
         },
         "a1708": {
           "name": "A1708",
-          "displayFrame": 16500,
-          "displayWithout": 12000,
-          "keyboard": 5000,
-          "touchpad": 4000,
-          "cleaning": 500,
-          "cooler": 2000,
-          "termo": 500,
-          "battery": 4000,
+          "displayFrame": 18000,
+          "displayWithout": 13500,
+          "keyboard": 6500,
+          "touchpad": 5500,
+          "cleaning": 800,
+          "cooler": 2500,
+          "termo": 800,
+          "battery": 5500,
           "micro": 3000,
           "speaker": 1800,
-          "water": 500
+          "water": 800
         },
         "a1707": {
           "name": "A1707",
-          "displayFrame": 23000,
-          "displayWithout": 21000,
-          "keyboard": 5000,
-          "touchpad": 4000,
-          "cleaning": 500,
-          "cooler": 2000,
-          "termo": 500,
-          "battery": 4000,
-          "micro": 3000,
-          "speaker": 1800,
-          "water": 500
+          "displayFrame": 32000,
+          "displayWithout": 30000,
+          "keyboard": 9000,
+          "touchpad": 8000,
+          "cleaning": 800,
+          "cooler": 3500,
+          "termo": 800,
+          "battery": 8000,
+          "micro": 4500,
+          "speaker": 2800,
+          "water": 800
         },
         "a1706": {
           "name": "A1706",
-          "displayFrame": 16500,
-          "displayWithout": 12000,
-          "keyboard": 5000,
-          "touchpad": 4000,
-          "cleaning": 500,
-          "cooler": 2000,
-          "termo": 500,
-          "battery": 4000,
-          "micro": 3000,
-          "speaker": 1800,
-          "water": 500
+          "displayFrame": 18500,
+          "displayWithout": 14500,
+          "keyboard": 7000,
+          "touchpad": 6000,
+          "cleaning": 800,
+          "cooler": 3000,
+          "termo": 800,
+          "battery": 6000,
+          "micro": 4000,
+          "speaker": 2300,
+          "water": 800
         },
         "a1398": {
           "name": "A1398",
-          "displayFrame": 20000,
-          "displayWithout": 19000,
-          "keyboard": 2500,
-          "touchpad": 2500,
-          "cleaning": 500,
-          "cooler": 2000,
-          "termo": 500,
-          "battery": 3000,
-          "micro": 2000,
-          "speaker": 1300,
-          "water": 500
+          "displayFrame": 24000,
+          "displayWithout": 23000,
+          "keyboard": 3500,
+          "touchpad": 3500,
+          "cleaning": 800,
+          "cooler": 3000,
+          "termo": 800,
+          "battery": 4000,
+          "micro": 3000,
+          "speaker": 2300,
+          "water": 800
         },
         "a1502": {
           "name": "A1502",
-          "displayFrame": 18000,
-          "displayWithout": 17000,
-          "keyboard": 2000,
-          "touchpad": 2500,
-          "cleaning": 500,
-          "cooler": 1500,
-          "termo": 500,
-          "battery": 3000,
-          "micro": 2000,
-          "speaker": 1300,
-          "water": 500
+          "displayFrame": 22000,
+          "displayWithout": 21000,
+          "keyboard": 3000,
+          "touchpad": 3500,
+          "cleaning": 800,
+          "cooler": 2500,
+          "termo": 800,
+          "battery": 4000,
+          "micro": 3000,
+          "speaker": 1800,
+          "water": 800
         },
         "a1425": {
           "name": "A1425",
-          "displayFrame": 14000,
-          "displayWithout": 13000,
-          "keyboard": 2000,
-          "touchpad": 2000,
-          "cleaning": 500,
-          "cooler": 1500,
-          "termo": 500,
-          "battery": 3000,
-          "micro": 2000,
-          "speaker": 1300,
-          "water": 500
+          "displayFrame": 17000,
+          "displayWithout": 16000,
+          "keyboard": 3000,
+          "touchpad": 3000,
+          "cleaning": 800,
+          "cooler": 2500,
+          "termo": 800,
+          "battery": 4000,
+          "micro": 3000,
+          "speaker": 2300,
+          "water": 800
         },
         "a1989": {
           "name": "A1989",
-          "displayFrame": 15500,
-          "displayWithout": 14500,
-          "keyboard": 4500,
-          "touchpad": 3500,
-          "cleaning": 500,
-          "cooler": 2600,
-          "termo": 500,
-          "battery": 4500,
-          "micro": 4000,
-          "speaker": 2500,
-          "water": 500
+          "displayFrame": 18500,
+          "displayWithout": 17500,
+          "keyboard": 6500,
+          "touchpad": 4500,
+          "cleaning": 800,
+          "cooler": 3600,
+          "termo": 800,
+          "battery": 5500,
+          "micro": 5000,
+          "speaker": 3500,
+          "water": 800
         },
         "a1990": {
           "name": "A1990",
-          "displayFrame": 27500,
-          "displayWithout": 24000,
-          "keyboard": 5000,
-          "touchpad": 4500,
-          "cleaning": 500,
-          "cooler": 3000,
-          "termo": 500,
-          "battery": 5000,
-          "micro": 5000,
-          "speaker": 2500,
-          "water": 500
+          "displayFrame": 35500,
+          "displayWithout": 33000,
+          "keyboard": 7000,
+          "touchpad": 6500,
+          "cleaning": 800,
+          "cooler": 4000,
+          "termo": 800,
+          "battery": 6500,
+          "micro": 6000,
+          "speaker": 3500,
+          "water": 800
         },
         "a2141": {
           "name": "A2141",
-          "displayFrame": 34000,
-          "displayWithout": 27000,
-          "keyboard": 5000,
-          "touchpad": 4500,
-          "cleaning": 500,
-          "cooler": 3000,
-          "termo": 500,
-          "battery": 5000,
-          "micro": 5000,
-          "speaker": 2500,
-          "water": 500
+          "displayFrame": 39000,
+          "displayWithout": 32000,
+          "keyboard": 7000,
+          "touchpad": 6500,
+          "cleaning": 800,
+          "cooler": 4000,
+          "termo": 800,
+          "battery": 7000,
+          "micro": 6000,
+          "speaker": 3500,
+          "water": 800
         },
         "a2289": {
           "name": "A2289",
-          "displayFrame": 27000,
-          "displayWithout": 27000,
-          "keyboard": 7000,
-          "touchpad": 6000,
-          "cleaning": 500,
-          "cooler": 3000,
-          "termo": 500,
-          "battery": 7000,
-          "micro": 7000,
-          "speaker": 3000,
-          "water": 500
+          "displayFrame": 32000,
+          "displayWithout": 32000,
+          "keyboard": 9000,
+          "touchpad": 8000,
+          "cleaning": 800,
+          "cooler": 4000,
+          "termo": 800,
+          "battery": 8000,
+          "micro": 8000,
+          "speaker": 4000,
+          "water": 800
         },
         "a2251": {
           "name": "A2251",
-          "displayFrame": 30000,
-          "displayWithout": 20000,
-          "keyboard": 7000,
-          "touchpad": 4500,
-          "cleaning": 500,
-          "cooler": 3000,
-          "termo": 500,
-          "battery": 7000,
-          "micro": 7000,
-          "speaker": 3000,
-          "water": 500
+          "displayFrame": 35000,
+          "displayWithout": 25000,
+          "keyboard": 9000,
+          "touchpad": 6500,
+          "cleaning": 800,
+          "cooler": 4000,
+          "termo": 800,
+          "battery": 9000,
+          "micro": 9000,
+          "speaker": 4000,
+          "water": 800
         },
         "a2338": {
           "name": "A2338",
-          "displayFrame": 21000,
-          "displayWithout": 17500,
-          "keyboard": 6000,
-          "touchpad": 4500,
-          "cleaning": 500,
-          "cooler": 3000,
-          "termo": 500,
-          "battery": 6000,
-          "micro": 5000,
-          "speaker": 3000,
-          "water": 500
+          "displayFrame": 25000,
+          "displayWithout": 22500,
+          "keyboard": 8000,
+          "touchpad": 6500,
+          "cleaning": 800,
+          "cooler": 4000,
+          "termo": 800,
+          "battery": 8000,
+          "micro": 6000,
+          "speaker": 4000,
+          "water": 800
         },
         "a2159": {
           "name": "A2159",
-          "displayFrame": 22000,
-          "displayWithout": 18000,
-          "keyboard": 5000,
-          "touchpad": 4500,
-          "cleaning": 500,
-          "cooler": 3500,
-          "termo": 500,
-          "battery": 6000,
-          "micro": 5000,
-          "speaker": 3000,
-          "water": 500
+          "displayFrame": 25000,
+          "displayWithout": 21000,
+          "keyboard": 7000,
+          "touchpad": 6500,
+          "cleaning": 800,
+          "cooler": 4500,
+          "termo": 800,
+          "battery": 8000,
+          "micro": 6000,
+          "speaker": 4000,
+          "water": 800
         }
       }
     },
@@ -1256,127 +1253,127 @@
       "data": {
         "a1466": {
           "name": "A1466",
-          "displayFrame": 10000,
-          "displayWithout": 6500,
-          "keyboard": 2000,
-          "touchpad": 2000,
-          "cleaning": 500,
-          "cooler": 1000,
-          "termo": 500,
-          "battery": 3200,
-          "micro": 1500,
+          "displayFrame": 13000,
+          "displayWithout": 9500,
+          "keyboard": 3000,
+          "touchpad": 3000,
+          "cleaning": 800,
+          "cooler": 3500,
+          "termo": 800,
+          "battery": 4200,
+          "micro": 2500,
           "speaker": 800,
-          "water": 500
+          "water": 800
         },
         "a1465": {
           "name": "A1465",
-          "displayFrame": 9500,
-          "displayWithout": 5000,
-          "keyboard": 2000,
-          "touchpad": 2000,
-          "cleaning": 500,
-          "cooler": 1000,
-          "termo": 500,
-          "battery": 3200,
-          "micro": 1500,
+          "displayFrame": 12500,
+          "displayWithout": 8000,
+          "keyboard": 3000,
+          "touchpad": 3000,
+          "cleaning": 800,
+          "cooler": 2500,
+          "termo": 800,
+          "battery": 4200,
+          "micro": 2500,
           "speaker": 800,
-          "water": 500
+          "water": 800
         },
         "a1370": {
           "name": "A1370",
-          "displayFrame": 9500,
-          "displayWithout": 5000,
-          "keyboard": 2000,
-          "touchpad": 2000,
-          "cleaning": 500,
-          "cooler": 1000,
-          "termo": 500,
-          "battery": 3200,
-          "micro": 1500,
+          "displayFrame": 12500,
+          "displayWithout": 8000,
+          "keyboard": 3000,
+          "touchpad": 3000,
+          "cleaning": 800,
+          "cooler": 2500,
+          "termo": 800,
+          "battery": 4200,
+          "micro": 2500,
           "speaker": 800,
-          "water": 500
+          "water": 800
         },
         "a1369": {
           "name": "A1369",
-          "displayFrame": 10000,
-          "displayWithout": 7000,
-          "keyboard": 2000,
-          "touchpad": 2000,
-          "cleaning": 500,
-          "cooler": 2000,
-          "termo": 500,
-          "battery": 2200,
-          "micro": 1500,
+          "displayFrame": 13000,
+          "displayWithout": 10000,
+          "keyboard": 3000,
+          "touchpad": 3000,
+          "cleaning": 800,
+          "cooler": 3000,
+          "termo": 800,
+          "battery": 3200,
+          "micro": 2500,
           "speaker": 800,
-          "water": 500
+          "water": 800
         },
         "a1304": {
           "name": "A1304",
-          "displayFrame": 6000,
-          "displayWithout": 5000,
-          "keyboard": 2000,
-          "touchpad": 1500,
-          "cleaning": 500,
-          "cooler": 1000,
-          "termo": 500,
-          "battery": 1500,
-          "micro": 1500,
+          "displayFrame": 8000,
+          "displayWithout": 7000,
+          "keyboard": 3000,
+          "touchpad": 2500,
+          "cleaning": 800,
+          "cooler": 2500,
+          "termo": 800,
+          "battery": 2500,
+          "micro": 2500,
           "speaker": 800,
-          "water": 500
+          "water": 800
         },
         "a1237": {
           "name": "A1237",
-          "displayFrame": 6000,
-          "displayWithout": 5000,
-          "keyboard": 2000,
-          "touchpad": 1500,
-          "cleaning": 500,
-          "cooler": 1000,
-          "termo": 500,
-          "battery": 1500,
-          "micro": 1500,
+          "displayFrame": 8000,
+          "displayWithout": 7000,
+          "keyboard": 3000,
+          "touchpad": 2500,
+          "cleaning": 800,
+          "cooler": 2500,
+          "termo": 800,
+          "battery": 2500,
+          "micro": 2500,
           "speaker": 800,
-          "water": 500
+          "water": 800
         },
         "a1932": {
           "name": "A1932",
-          "displayFrame": 13500,
-          "displayWithout": 11500,
-          "keyboard": 5000,
-          "touchpad": 3500,
-          "cleaning": 500,
-          "cooler": 2000,
-          "termo": 500,
-          "battery": 3500,
-          "micro": 1500,
-          "speaker": 1500,
-          "water": 500
+          "displayFrame": 16000,
+          "displayWithout": 14000,
+          "keyboard": 7000,
+          "touchpad": 4500,
+          "cleaning": 800,
+          "cooler": 3000,
+          "termo": 800,
+          "battery": 4500,
+          "micro": 2500,
+          "speaker": 2500,
+          "water": 800
         },
         "a2337": {
           "name": "A2337",
-          "displayFrame": 15500,
-          "displayWithout": 11000,
-          "keyboard": 5000,
-          "touchpad": 3500,
-          "cleaning": 500,
-          "termo": 500,
-          "battery": 6000,
-          "micro": 1500,
-          "speaker": 1500,
-          "water": 500
+          "displayFrame": 18500,
+          "displayWithout": 14000,
+          "keyboard": 7000,
+          "touchpad": 1500,
+          "cleaning": 800,
+          "termo": 800,
+          "battery": 8000,
+          "micro": 2500,
+          "speaker": 2500,
+          "water": 800
         },
         "a2179": {
           "name": "A2179",
-          "displayFrame": 15500,
-          "displayWithout": 11000,
-          "keyboard": 5000,
-          "touchpad": 3500,
-          "cleaning": 500,
-          "termo": 500,
-          "battery": 6000,
-          "micro": 1500,
-          "speaker": 1500,
-          "water": 500
+          "displayFrame": 18000,
+          "displayWithout": 15000,
+          "keyboard": 7000,
+          "touchpad": 4500,
+          "cleaning": 800,
+          "termo": 800,
+          "battery": 8000,
+          "micro": 2500,
+          "speaker": 2500,
+          "water": 800
         }
       }
     },
@@ -1385,59 +1382,59 @@
       "data": {
         "series1": {
           "name": "Series 1",
-          "display": 1700,
-          "displayGlass": 1000,
-          "battery": 900,
-          "water": 200
+          "display": 2700,
+          "displayGlass": 2000,
+          "battery": 1500,
+          "water": 500
         },
         "series2": {
           "name": "Series 2",
-          "display": 3400,
-          "displayGlass": 1900,
-          "battery": 900,
-          "water": 200
+          "display": 4400,
+          "displayGlass": 2900,
+          "battery": 1500,
+          "water": 500
         },
         "series3": {
           "name": "Series 3",
-          "display": 3400,
-          "displayGlass": 1900,
-          "battery": 900,
-          "water": 200
+          "display": 4400,
+          "displayGlass": 2900,
+          "battery": 1500,
+          "water": 500
         },
         "series4": {
           "name": "Series 4",
-          "display": 5200,
-          "displayGlass": 2100,
-          "battery": 1100,
-          "water": 200
+          "display": 7200,
+          "displayGlass": 3100,
+          "battery": 1800,
+          "water": 500
         },
         "series5": {
           "name": "Series 5",
-          "display": 5400,
-          "displayGlass": 2100,
-          "battery": 1100,
-          "water": 200
+          "display": 7400,
+          "displayGlass": 3100,
+          "battery": 1800,
+          "water": 500
         },
         "series6": {
           "name": "Series 6",
-          "display": 6400,
-          "displayGlass": 2800,
-          "battery": 1500,
-          "water": 200
+          "display": 8400,
+          "displayGlass": 3800,
+          "battery": 2200,
+          "water": 500
         },
         "series7": {
           "name": "Series 7",
-          "display": 9700,
-          "displayGlass": 4500,
-          "battery": 1900,
-          "water": 200
+          "display": 12700,
+          "displayGlass": 6500,
+          "battery": 2800,
+          "water": 500
         },
         "se": {
           "name": "SE",
-          "display": 9700,
-          "displayGlass": 4500,
-          "battery": 1900,
-          "water": 200
+          "display": 12700,
+          "displayGlass": 6500,
+          "battery": 2800,
+          "water": 500
         }
       }
     }
@@ -1456,7 +1453,7 @@
           "speaker": 300,
           "volumeBtns": 300,
           "cable": 300,
-          "water": 200
+          "water": 300
         },
         "s6": {
           "name": "S6",
@@ -1468,7 +1465,7 @@
           "speaker": 300,
           "volumeBtns": 300,
           "cable": 400,
-          "water": 200
+          "water": 300
         },
         "s6edge": {
           "name": "S6 Edge",
@@ -1480,7 +1477,7 @@
           "speaker": 300,
           "volumeBtns": 300,
           "cable": 400,
-          "water": 200
+          "water": 300
         },
         "s7": {
           "name": "S7",
@@ -1493,7 +1490,7 @@
           "speaker": 500,
           "volumeBtns": 500,
           "cable": 500,
-          "water": 200
+          "water": 300
         },
         "s7edge": {
           "name": "S7 Edge",
@@ -1506,7 +1503,7 @@
           "speaker": 500,
           "volumeBtns": 500,
           "cable": 500,
-          "water": 200
+          "water": 300
         },
         "s8": {
           "name": "S8",
@@ -1520,7 +1517,7 @@
           "mainCamera": 1000,
           "volumeBtns": 600,
           "cable": 600,
-          "water": 200
+          "water": 300
         },
         "s8plus": {
           "name": "S8 Plus",
@@ -1534,7 +1531,7 @@
           "mainCamera": 1000,
           "volumeBtns": 600,
           "cable": 600,
-          "water": 200
+          "water": 300
         },
         "s9": {
           "name": "S9",
@@ -1548,7 +1545,7 @@
           "mainCamera": 1000,
           "volumeBtns": 600,
           "cable": 600,
-          "water": 200
+          "water": 300
         },
         "s9plus": {
           "name": "S9 Plus",
@@ -1562,7 +1559,7 @@
           "mainCamera": 1000,
           "volumeBtns": 600,
           "cable": 600,
-          "water": 200
+          "water": 300
         },
         "s10e": {
           "name": "S10e",
@@ -1572,11 +1569,11 @@
           "bodyGlass": 500,
           "cameraGlass": 300,
           "micro": 1000,
-          "speaker": 800,
+          "speaker": 300,
           "mainCamera": 2000,
           "volumeBtns": 800,
           "cable": 1000,
-          "water": 200
+          "water": 300
         },
         "s10": {
           "name": "S10",
@@ -1586,11 +1583,11 @@
           "bodyGlass": 500,
           "cameraGlass": 300,
           "micro": 1000,
-          "speaker": 800,
+          "speaker": 300,
           "mainCamera": 2000,
           "volumeBtns": 800,
           "cable": 1000,
-          "water": 200
+          "water": 300
         },
         "s10plus": {
           "name": "S10 Plus",
@@ -1600,11 +1597,11 @@
           "bodyGlass": 500,
           "cameraGlass": 300,
           "micro": 1000,
-          "speaker": 800,
+          "speaker": 300,
           "mainCamera": 2000,
           "volumeBtns": 800,
           "cable": 1000,
-          "water": 200
+          "water": 300
         },
         "s10lite": {
           "name": "S10 Lite",
@@ -1614,17 +1611,17 @@
           "bodyGlass": 500,
           "cameraGlass": 300,
           "micro": 1000,
-          "speaker": 800,
+          "speaker": 300,
           "mainCamera": 2000,
           "volumeBtns": 800,
           "cable": 1000,
-          "water": 200
+          "water": 300
         },
         "s20fe": {
           "name": "S20 FE",
           "battery": 1000,
           "cameraGlass": 500,
-          "water": 200
+          "water": 300
         },
         "s20": {
           "name": "S20",
@@ -1634,10 +1631,10 @@
           "bodyGlass": 800,
           "cameraGlass": 500,
           "micro": 1000,
-          "speaker": 800,
+          "speaker": 300,
           "volumeBtns": 1000,
           "cable": 1000,
-          "water": 200
+          "water": 300
         },
         "s20plus": {
           "name": "S20 Plus",
@@ -1647,10 +1644,10 @@
           "bodyGlass": 800,
           "cameraGlass": 500,
           "micro": 1000,
-          "speaker": 800,
+          "speaker": 300,
           "volumeBtns": 1000,
           "cable": 1000,
-          "water": 200
+          "water": 300
         },
         "s20ultra": {
           "name": "S20 Ultra",
@@ -1660,48 +1657,48 @@
           "bodyGlass": 800,
           "cameraGlass": 500,
           "micro": 1000,
-          "speaker": 800,
+          "speaker": 300,
           "volumeBtns": 1000,
           "cable": 1000,
-          "water": 200
+          "water": 300
         },
         "s21": {
           "name": "S21",
           "displayGlass": 8000,
           "battery": 1500,
-          "water": 200
+          "water": 300
         },
         "s21plus": {
           "name": "S21 Plus",
           "displayGlass": 8000,
           "battery": 1500,
-          "water": 200
+          "water": 300
         },
         "s21ultra": {
           "name": "S20 Ultra",
           "displayGlass": 8000,
           "battery": 1500,
-          "water": 200
+          "water": 300
         },
         "s21fe": {
           "name": "S21 FE",
           "displayGlass": 6000,
-          "water": 200
+          "water": 300
         },
         "s22": {
           "name": "S22",
           "displayGlass": 8000,
-          "water": 200
+          "water": 300
         },
         "s22plus": {
           "name": "S22 Plus",
           "displayGlass": 8000,
-          "water": 200
+          "water": 300
         },
         "s22ultra": {
           "name": "S20 Ultra",
           "displayGlass": 8000,
-          "water": 200
+          "water": 300
         }
       }
     },
@@ -1712,10 +1709,10 @@
           "name": "A03",
           "display": 2000,
           "displayGlass": 1500,
-          "battery": 600,
+          "battery": 700,
           "cable": 800,
           "volumeBtns": 600,
-          "water": 200
+          "water": 300
         },
         "a13": {
           "name": "A13",
@@ -1724,7 +1721,7 @@
           "battery": 800,
           "cable": 800,
           "volumeBtns": 600,
-          "water": 200
+          "water": 300
         },
         "a23": {
           "name": "A23",
@@ -1733,7 +1730,7 @@
           "battery": 800,
           "cable": 800,
           "volumeBtns": 600,
-          "water": 200
+          "water": 300
         },
         "a33": {
           "name": "A33",
@@ -1742,7 +1739,7 @@
           "battery": 800,
           "cable": 800,
           "volumeBtns": 600,
-          "water": 200
+          "water": 300
         },
         "a53": {
           "name": "A53",
@@ -1751,7 +1748,7 @@
           "battery": 800,
           "cable": 800,
           "volumeBtns": 600,
-          "water": 200
+          "water": 300
         },
         "a73": {
           "name": "A73",
@@ -1760,403 +1757,403 @@
           "battery": 800,
           "cable": 800,
           "volumeBtns": 600,
-          "water": 200
+          "water": 300
         },
         "a02": {
           "name": "A02",
           "display": 2000,
           "displayGlass": 1500,
-          "battery": 600,
+          "battery": 700,
           "volumeBtns": 400,
           "cable": 400,
-          "water": 200
+          "water": 300
         },
         "a03core": {
           "name": "A03 Core",
           "display": 2500,
           "displayGlass": 1500,
-          "battery": 600,
+          "battery": 700,
           "volumeBtns": 400,
           "cable": 400,
-          "water": 200
+          "water": 300
         },
         "a03s": {
           "name": "A03S",
           "display": 2500,
           "displayGlass": 1500,
-          "battery": 600,
+          "battery": 700,
           "volumeBtns": 400,
           "cable": 400,
-          "water": 200
+          "water": 300
         },
         "a12": {
           "name": "A12",
           "display": 2000,
           "displayGlass": 1000,
-          "battery": 600,
+          "battery": 700,
           "volumeBtns": 400,
           "cable": 400,
-          "water": 200
+          "water": 300
         },
         "a22": {
           "name": "A22",
           "display": 2000,
           "displayGlass": 1000,
-          "battery": 600,
+          "battery": 700,
           "volumeBtns": 400,
           "cable": 400,
-          "water": 200
+          "water": 300
         },
         "a32": {
           "name": "A32",
           "display": 2000,
           "displayGlass": 1000,
-          "battery": 600,
+          "battery": 700,
           "volumeBtns": 400,
           "cable": 400,
-          "water": 200
+          "water": 300
         },
         "a52": {
           "name": "A52",
           "display": 3000,
           "displayGlass": 2500,
-          "battery": 600,
+          "battery": 700,
           "volumeBtns": 400,
           "cable": 400,
-          "water": 200
+          "water": 300
         },
         "a52s": {
           "name": "A52S",
           "display": 3000,
           "displayGlass": 2500,
-          "battery": 600,
+          "battery": 700,
           "volumeBtns": 400,
           "cable": 400,
-          "water": 200
+          "water": 300
         },
         "a72": {
           "name": "A72",
           "display": 5000,
           "displayGlass": 3000,
-          "battery": 600,
+          "battery": 700,
           "volumeBtns": 400,
           "cable": 400,
-          "water": 200
+          "water": 300
         },
         "a01core": {
           "name": "A01 core",
           "display": 1700,
           "displayGlass": 1000,
-          "battery": 600,
+          "battery": 700,
           "volumeBtns": 400,
           "cable": 400,
-          "water": 200
+          "water": 300
         },
         "a02s": {
           "name": "A02S",
           "display": 2000,
           "displayGlass": 1500,
-          "battery": 600,
+          "battery": 700,
           "volumeBtns": 400,
           "cable": 400,
-          "water": 200
+          "water": 300
         },
         "a11": {
           "name": "A11",
           "display": 2000,
           "displayGlass": 1500,
-          "battery": 600,
+          "battery": 700,
           "volumeBtns": 400,
           "cable": 400,
-          "water": 200
+          "water": 300
         },
         "a21": {
           "name": "A21",
           "display": 2200,
           "displayGlass": 1500,
-          "battery": 600,
+          "battery": 700,
           "volumeBtns": 400,
           "cable": 400,
-          "water": 200
+          "water": 300
         },
         "a21s": {
           "name": "A21S",
           "display": 2200,
           "displayGlass": 1500,
-          "battery": 600,
+          "battery": 700,
           "volumeBtns": 400,
           "cable": 400,
-          "water": 200
+          "water": 300
         },
         "a31": {
           "name": "A31",
           "display": 3000,
           "displayGlass": 1500,
-          "battery": 600,
+          "battery": 700,
           "volumeBtns": 400,
           "cable": 400,
-          "water": 200
+          "water": 300
         },
         "a41": {
           "name": "A41",
           "display": 5000,
           "displayGlass": 2500,
-          "battery": 600,
+          "battery": 700,
           "volumeBtns": 400,
           "cable": 400,
-          "water": 200
+          "water": 300
         },
         "a42": {
           "name": "A42",
           "display": 5000,
           "displayGlass": 2500,
-          "battery": 600,
+          "battery": 700,
           "volumeBtns": 400,
           "cable": 400,
-          "water": 200
+          "water": 300
         },
         "a51": {
           "name": "A51",
           "display": 2500,
           "displayGlass": 2500,
-          "battery": 600,
+          "battery": 700,
           "volumeBtns": 400,
           "cable": 400,
-          "water": 200
+          "water": 300
         },
         "a71": {
           "name": "A71",
           "display": 3000,
           "displayGlass": 2500,
-          "battery": 600,
+          "battery": 700,
           "volumeBtns": 400,
           "cable": 400,
-          "water": 200
+          "water": 300
         },
         "a01": {
           "name": "A01",
           "display": 1500,
           "displayGlass": 1000,
-          "battery": 600,
+          "battery": 700,
           "volumeBtns": 400,
           "cable": 400,
-          "water": 200
+          "water": 300
         },
         "a10": {
           "name": "A10",
           "display": 1800,
           "displayGlass": 1500,
-          "battery": 600,
+          "battery": 700,
           "volumeBtns": 400,
           "cable": 400,
-          "water": 200
+          "water": 300
         },
         "a10e": {
           "name": "A10e",
           "display": 1800,
           "displayGlass": 1500,
-          "battery": 600,
+          "battery": 700,
           "volumeBtns": 400,
           "cable": 400,
-          "water": 200
+          "water": 300
         },
         "a10s": {
           "name": "A10S",
           "display": 1800,
           "displayGlass": 1500,
-          "battery": 600,
+          "battery": 700,
           "volumeBtns": 400,
           "cable": 400,
-          "water": 200
+          "water": 300
         },
         "a20": {
           "name": "A20",
           "display": 2500,
           "displayGlass": 2000,
-          "battery": 600,
+          "battery": 700,
           "volumeBtns": 400,
           "cable": 400,
-          "water": 200
+          "water": 300
         },
         "a20e": {
           "name": "A20e",
           "display": 2500,
           "displayGlass": 2000,
-          "battery": 600,
+          "battery": 700,
           "volumeBtns": 400,
           "cable": 400,
-          "water": 200
+          "water": 300
         },
         "a20s": {
           "name": "A20S",
           "display": 2500,
           "displayGlass": 2000,
-          "battery": 600,
+          "battery": 700,
           "volumeBtns": 400,
           "cable": 400,
-          "water": 200
+          "water": 300
         },
         "a30": {
           "name": "A30",
           "display": 3000,
           "displayGlass": 2000,
-          "battery": 600,
+          "battery": 700,
           "volumeBtns": 400,
           "cable": 400,
-          "water": 200
+          "water": 300
         },
         "a30s": {
           "name": "A30S",
           "display": 3000,
           "displayGlass": 2000,
-          "battery": 600,
+          "battery": 700,
           "volumeBtns": 400,
           "cable": 400,
-          "water": 200
+          "water": 300
         },
         "a40": {
           "name": "A40",
           "display": 5000,
           "displayGlass": 2500,
-          "battery": 600,
+          "battery": 700,
           "volumeBtns": 400,
           "cable": 400,
-          "water": 200
+          "water": 300
         },
         "a50": {
           "name": "A50",
           "display": 3000,
           "displayGlass": 2000,
-          "battery": 600,
+          "battery": 700,
           "volumeBtns": 400,
           "cable": 400,
-          "water": 200
+          "water": 300
         },
         "a50s": {
           "name": "A50S",
           "display": 3000,
           "displayGlass": 2000,
-          "battery": 600,
+          "battery": 700,
           "volumeBtns": 400,
           "cable": 400,
-          "water": 200
+          "water": 300
         },
         "a60": {
           "name": "A60",
           "display": 3000,
           "displayGlass": 2000,
-          "battery": 600,
+          "battery": 700,
           "volumeBtns": 400,
           "cable": 400,
-          "water": 200
+          "water": 300
         },
         "a70": {
           "name": "A70",
           "display": 3000,
           "displayGlass": 2000,
-          "battery": 600,
+          "battery": 700,
           "volumeBtns": 400,
           "cable": 400,
-          "water": 200
+          "water": 300
         },
         "a70s": {
           "name": "A70S",
           "display": 3000,
           "displayGlass": 2000,
-          "battery": 600,
+          "battery": 700,
           "volumeBtns": 400,
           "cable": 400,
-          "water": 200
+          "water": 300
         },
         "a80": {
           "name": "A80",
           "display": 4000,
           "displayGlass": 2000,
-          "battery": 600,
+          "battery": 700,
           "volumeBtns": 400,
           "cable": 400,
-          "water": 200
+          "water": 300
         },
         "a62018": {
           "name": "A6 2018",
           "display": 3000,
           "displayGlass": 2000,
-          "battery": 600,
+          "battery": 700,
           "volumeBtns": 400,
           "cable": 400,
-          "water": 200
+          "water": 300
         },
         "a6plus": {
           "name": "A6 Plus",
           "display": 3000,
           "displayGlass": 2000,
-          "battery": 600,
+          "battery": 700,
           "volumeBtns": 400,
           "cable": 400,
-          "water": 200
+          "water": 300
         },
         "a72018": {
           "name": "A7 2018",
           "display": 3000,
           "displayGlass": 2000,
-          "battery": 600,
+          "battery": 700,
           "volumeBtns": 400,
           "cable": 400,
-          "water": 200
+          "water": 300
         },
         "a92018": {
           "name": "A9 2018",
           "display": 3000,
           "displayGlass": 2000,
-          "battery": 600,
+          "battery": 700,
           "volumeBtns": 400,
           "cable": 400,
-          "water": 200
+          "water": 300
         },
         "a32017": {
           "name": "A3 2017",
           "display": 3000,
           "displayGlass": 2000,
-          "battery": 600,
+          "battery": 700,
           "volumeBtns": 400,
           "cable": 400,
-          "water": 200
+          "water": 300
         },
         "a52017": {
           "name": "A5 2017",
           "display": 2000,
           "displayGlass": 1000,
-          "battery": 600,
+          "battery": 700,
           "volumeBtns": 400,
           "cable": 400,
-          "water": 200
+          "water": 300
         },
         "a72017": {
           "name": "A7 2017",
           "display": 2000,
           "displayGlass": 1000,
-          "battery": 600,
+          "battery": 700,
           "volumeBtns": 400,
           "cable": 400,
-          "water": 200
+          "water": 300
         },
         "a82018": {
           "name": "A8 2018",
           "display": 3000,
           "displayGlass": 2000,
-          "battery": 600,
+          "battery": 700,
           "volumeBtns": 400,
           "cable": 400,
-          "water": 200
+          "water": 300
         },
         "a8plus2018": {
           "name": "A8 Plus 2018",
           "display": 3000,
           "displayGlass": 2000,
-          "battery": 600,
+          "battery": 700,
           "volumeBtns": 400,
           "cable": 400,
-          "water": 200
+          "water": 300
         }
       }
     },
@@ -2171,7 +2168,7 @@
           "micro": 1000,
           "volumeBtns": 1000,
           "cable": 1000,
-          "water": 200
+          "water": 300
         },
         "m33": {
           "name": "M33",
@@ -2181,7 +2178,7 @@
           "micro": 1000,
           "volumeBtns": 1000,
           "cable": 1000,
-          "water": 200
+          "water": 300
         },
         "m53": {
           "name": "M53",
@@ -2191,7 +2188,7 @@
           "micro": 1000,
           "volumeBtns": 1000,
           "cable": 1000,
-          "water": 200
+          "water": 300
         },
         "m02": {
           "name": "M02",
@@ -2201,7 +2198,7 @@
           "micro": 800,
           "volumeBtns": 600,
           "cable": 800,
-          "water": 200
+          "water": 300
         },
         "m02s": {
           "name": "M02S",
@@ -2211,7 +2208,7 @@
           "micro": 800,
           "volumeBtns": 600,
           "cable": 800,
-          "water": 200
+          "water": 300
         },
         "m12": {
           "name": "M12",
@@ -2221,7 +2218,7 @@
           "micro": 800,
           "volumeBtns": 600,
           "cable": 800,
-          "water": 200
+          "water": 300
         },
         "m212021": {
           "name": "M21 2021",
@@ -2231,7 +2228,7 @@
           "micro": 800,
           "volumeBtns": 600,
           "cable": 800,
-          "water": 200
+          "water": 300
         },
         "m22": {
           "name": "M22",
@@ -2241,7 +2238,7 @@
           "micro": 800,
           "volumeBtns": 600,
           "cable": 800,
-          "water": 200
+          "water": 300
         },
         "m32": {
           "name": "M32",
@@ -2251,7 +2248,7 @@
           "micro": 800,
           "volumeBtns": 600,
           "cable": 800,
-          "water": 200
+          "water": 300
         },
         "m62": {
           "name": "M62",
@@ -2261,7 +2258,7 @@
           "micro": 800,
           "volumeBtns": 600,
           "cable": 800,
-          "water": 200
+          "water": 300
         },
         "m01": {
           "name": "M01",
@@ -2271,7 +2268,7 @@
           "micro": 800,
           "volumeBtns": 600,
           "cable": 800,
-          "water": 200
+          "water": 300
         },
         "m01s": {
           "name": "M01S",
@@ -2281,7 +2278,7 @@
           "micro": 800,
           "volumeBtns": 600,
           "cable": 800,
-          "water": 200
+          "water": 300
         },
         "m11": {
           "name": "M11",
@@ -2291,7 +2288,7 @@
           "micro": 800,
           "volumeBtns": 600,
           "cable": 800,
-          "water": 200
+          "water": 300
         },
         "m21": {
           "name": "M21",
@@ -2301,7 +2298,7 @@
           "micro": 800,
           "volumeBtns": 600,
           "cable": 800,
-          "water": 200
+          "water": 300
         },
         "m21s": {
           "name": "M21S",
@@ -2311,7 +2308,7 @@
           "micro": 800,
           "volumeBtns": 600,
           "cable": 800,
-          "water": 200
+          "water": 300
         },
         "m31": {
           "name": "M31",
@@ -2321,7 +2318,7 @@
           "micro": 800,
           "volumeBtns": 600,
           "cable": 800,
-          "water": 200
+          "water": 300
         },
         "m31s": {
           "name": "M31S",
@@ -2331,7 +2328,7 @@
           "micro": 800,
           "volumeBtns": 600,
           "cable": 800,
-          "water": 200
+          "water": 300
         },
         "m51": {
           "name": "M51",
@@ -2341,7 +2338,7 @@
           "micro": 800,
           "volumeBtns": 600,
           "cable": 800,
-          "water": 200
+          "water": 300
         },
         "m10": {
           "name": "M10",
@@ -2351,7 +2348,7 @@
           "micro": 800,
           "volumeBtns": 600,
           "cable": 800,
-          "water": 200
+          "water": 300
         },
         "m10s": {
           "name": "M10S",
@@ -2361,7 +2358,7 @@
           "micro": 800,
           "volumeBtns": 600,
           "cable": 800,
-          "water": 200
+          "water": 300
         },
         "m20": {
           "name": "M20",
@@ -2371,7 +2368,7 @@
           "micro": 800,
           "volumeBtns": 600,
           "cable": 800,
-          "water": 200
+          "water": 300
         },
         "m30": {
           "name": "M30",
@@ -2381,7 +2378,7 @@
           "micro": 800,
           "volumeBtns": 600,
           "cable": 800,
-          "water": 200
+          "water": 300
         },
         "m40": {
           "name": "M40",
@@ -2391,7 +2388,7 @@
           "micro": 800,
           "volumeBtns": 600,
           "cable": 800,
-          "water": 200
+          "water": 300
         }
       }
     },
@@ -2407,7 +2404,7 @@
           "micro": 1000,
           "volumeBtns": 800,
           "cable": 1000,
-          "water": 200
+          "water": 300
         },
         "note9": {
           "name": "Note 9",
@@ -2418,7 +2415,7 @@
           "micro": 1000,
           "volumeBtns": 800,
           "cable": 1000,
-          "water": 200
+          "water": 300
         },
         "note10": {
           "name": "Note 10",
@@ -2429,7 +2426,7 @@
           "micro": 1000,
           "volumeBtns": 800,
           "cable": 1000,
-          "water": 200
+          "water": 300
         },
         "note10plus": {
           "name": "Note 10 Plus",
@@ -2440,7 +2437,7 @@
           "micro": 1000,
           "volumeBtns": 800,
           "cable": 1000,
-          "water": 200
+          "water": 300
         },
         "note10lite": {
           "name": "Note 10 Lite",
@@ -2451,7 +2448,7 @@
           "micro": 1000,
           "volumeBtns": 800,
           "cable": 1000,
-          "water": 200
+          "water": 300
         },
         "note20": {
           "name": "Note 20",
@@ -2462,7 +2459,7 @@
           "micro": 1500,
           "volumeBtns": 1200,
           "cable": 1500,
-          "water": 200
+          "water": 300
         },
         "note20ultra": {
           "name": "Note 20 Ultra",
@@ -2473,7 +2470,7 @@
           "micro": 1500,
           "volumeBtns": 1200,
           "cable": 1500,
-          "water": 200
+          "water": 300
         }
       }
     }
@@ -2486,20 +2483,20 @@
         "redmi10": {
           "name": "Redmi 10",
           "display": 2000,
-          "battery": 600,
+          "battery": 700,
           "micro": 500,
           "volumeBtns": 500,
           "cable": 500,
-          "water": 200
+          "water": 300
         },
         "redmi10a": {
           "name": "Redmi 10A",
           "display": 2000,
-          "battery": 600,
+          "battery": 700,
           "micro": 500,
           "volumeBtns": 500,
           "cable": 500,
-          "water": 200
+          "water": 300
         },
         "redmik40": {
           "name": "Redmi K40",
@@ -2508,160 +2505,160 @@
           "micro": 500,
           "volumeBtns": 500,
           "cable": 500,
-          "water": 200
+          "water": 300
         },
         "redmi9": {
           "name": "Redmi 9",
           "display": 1700,
-          "battery": 600,
+          "battery": 700,
           "micro": 500,
           "volumeBtns": 500,
           "cable": 500,
-          "water": 200
+          "water": 300
         },
         "redmi9a": {
           "name": "Redmi 9A",
           "display": 2000,
-          "battery": 600,
+          "battery": 700,
           "micro": 500,
           "volumeBtns": 500,
           "cable": 500,
-          "water": 200
+          "water": 300
         },
         "redmi9t": {
           "name": "Redmi 9T",
           "display": 2000,
-          "battery": 600,
+          "battery": 700,
           "micro": 500,
           "volumeBtns": 500,
           "cable": 500,
-          "water": 200
+          "water": 300
         },
         "redmi10x": {
           "name": "Redmi 10X",
           "display": 1700,
-          "battery": 600,
+          "battery": 700,
           "micro": 500,
           "volumeBtns": 500,
           "cable": 500,
-          "water": 200
+          "water": 300
         },
         "redmik30": {
           "name": "Redmi K30",
           "display": 3000,
-          "battery": 600,
+          "battery": 700,
           "micro": 500,
           "volumeBtns": 500,
           "cable": 500,
-          "water": 200
+          "water": 300
         },
         "redmi7": {
           "name": "Redmi 7",
           "display": 1100,
-          "battery": 600,
+          "battery": 700,
           "micro": 500,
           "volumeBtns": 500,
           "cable": 500,
-          "water": 200
+          "water": 300
         },
         "redmi7a": {
           "name": "Redmi 7A",
           "display": 1300,
-          "battery": 600,
+          "battery": 700,
           "micro": 500,
           "volumeBtns": 500,
           "cable": 500,
-          "water": 200
+          "water": 300
         },
         "redmi8": {
           "name": "Redmi 8",
           "display": 1500,
-          "battery": 600,
+          "battery": 700,
           "micro": 500,
           "volumeBtns": 500,
           "cable": 500,
-          "water": 200
+          "water": 300
         },
         "redmi8a": {
           "name": "Redmi 8A",
           "display": 1700,
-          "battery": 600,
+          "battery": 700,
           "micro": 500,
           "volumeBtns": 500,
           "cable": 500,
-          "water": 200
+          "water": 300
         },
         "redmik20": {
           "name": "Redmi K20",
           "display": 5000,
-          "battery": 600,
+          "battery": 700,
           "micro": 500,
           "volumeBtns": 500,
           "cable": 500,
-          "water": 200
+          "water": 300
         },
         "redmi5plus": {
           "name": "Redmi 5 Plus",
           "display": 1100,
-          "battery": 600,
+          "battery": 700,
           "micro": 500,
           "volumeBtns": 500,
           "cable": 500,
-          "water": 200
+          "water": 300
         },
         "redmi6": {
           "name": "Redmi 6",
           "display": 1300,
-          "battery": 600,
+          "battery": 700,
           "micro": 500,
           "volumeBtns": 500,
           "cable": 500,
-          "water": 200
+          "water": 300
         },
         "redmi6a": {
           "name": "Redmi 6A",
           "display": 1300,
-          "battery": 600,
+          "battery": 700,
           "micro": 500,
           "volumeBtns": 500,
           "cable": 500,
-          "water": 200
+          "water": 300
         },
         "redmi6pro": {
           "name": "Redmi 6 Pro",
           "display": 1600,
-          "battery": 600,
+          "battery": 700,
           "micro": 500,
           "volumeBtns": 500,
           "cable": 500,
-          "water": 200
+          "water": 300
         },
         "redmis2": {
           "name": "Redmi S2",
           "display": 1300,
-          "battery": 600,
+          "battery": 700,
           "micro": 500,
           "volumeBtns": 500,
           "cable": 500,
-          "water": 200
+          "water": 300
         },
         "redmi5": {
           "name": "Redmi 5",
           "display": 1100,
-          "battery": 600,
+          "battery": 700,
           "micro": 500,
           "volumeBtns": 500,
           "cable": 500,
-          "water": 200
+          "water": 300
         },
         "redmi5a": {
           "name": "Redmi 5A",
           "display": 1100,
-          "battery": 600,
+          "battery": 700,
           "micro": 500,
           "volumeBtns": 500,
           "cable": 500,
-          "water": 200
+          "water": 300
         }
       }
     },
@@ -2675,7 +2672,7 @@
           "micro": 600,
           "volumeBtns": 600,
           "cable": 600,
-          "water": 200
+          "water": 300
         },
         "note11pro": {
           "name": "Note 11 Pro",
@@ -2684,7 +2681,7 @@
           "micro": 600,
           "volumeBtns": 600,
           "cable": 600,
-          "water": 200
+          "water": 300
         },
         "note10": {
           "name": "Note 10",
@@ -2693,7 +2690,7 @@
           "micro": 600,
           "volumeBtns": 600,
           "cable": 600,
-          "water": 200
+          "water": 300
         },
         "note10pro": {
           "name": "Note 10 Pro",
@@ -2702,7 +2699,7 @@
           "micro": 600,
           "volumeBtns": 600,
           "cable": 600,
-          "water": 200
+          "water": 300
         },
         "note9": {
           "name": "Note 9",
@@ -2711,7 +2708,7 @@
           "micro": 600,
           "volumeBtns": 600,
           "cable": 600,
-          "water": 200
+          "water": 300
         },
         "note9pro": {
           "name": "Note 9 Pro",
@@ -2720,7 +2717,7 @@
           "micro": 600,
           "volumeBtns": 600,
           "cable": 600,
-          "water": 200
+          "water": 300
         },
         "note9s": {
           "name": "Note 9S",
@@ -2729,106 +2726,106 @@
           "micro": 600,
           "volumeBtns": 600,
           "cable": 600,
-          "water": 200
+          "water": 300
         },
         "note8": {
           "name": "Note 8",
           "display": 1500,
-          "battery": 600,
+          "battery": 700,
           "micro": 600,
           "volumeBtns": 600,
           "cable": 600,
-          "water": 200
+          "water": 300
         },
         "note8pro": {
           "name": "Note 8 Pro",
           "display": 1500,
-          "battery": 600,
+          "battery": 700,
           "micro": 600,
           "volumeBtns": 600,
           "cable": 600,
-          "water": 200
+          "water": 300
         },
         "note8t": {
           "name": "Note 8T",
           "display": 1500,
-          "battery": 600,
+          "battery": 700,
           "micro": 600,
           "volumeBtns": 400,
           "cable": 600,
-          "water": 200
+          "water": 300
         },
         "note7": {
           "name": "Note 7",
           "display": 1500,
-          "battery": 600,
+          "battery": 700,
           "micro": 600,
           "volumeBtns": 600,
           "cable": 600,
-          "water": 200
+          "water": 300
         },
         "note7pro": {
           "name": "Note 7 Pro",
           "display": 1500,
-          "battery": 600,
+          "battery": 700,
           "micro": 600,
           "volumeBtns": 600,
           "cable": 600,
-          "water": 200
+          "water": 300
         },
         "note7s": {
           "name": "Note 7S",
           "display": 1500,
-          "battery": 600,
+          "battery": 700,
           "micro": 600,
           "volumeBtns": 600,
           "cable": 600,
-          "water": 200
+          "water": 300
         },
         "note6pro": {
           "name": "Note 6 Pro",
           "display": 2000,
-          "battery": 600,
+          "battery": 700,
           "micro": 600,
           "volumeBtns": 600,
           "cable": 600,
-          "water": 200
+          "water": 300
         },
         "note5pro": {
           "name": "Note 5 Pro",
           "display": 1500,
-          "battery": 600,
+          "battery": 700,
           "micro": 600,
           "volumeBtns": 600,
           "cable": 600,
-          "water": 200
+          "water": 300
         },
         "note5a": {
           "name": "Note 5A",
           "display": 1500,
-          "battery": 600,
+          "battery": 700,
           "micro": 600,
           "volumeBtns": 600,
           "cable": 600,
-          "water": 200
+          "water": 300
         },
         "note4x": {
           "name": "Note 4X",
           "display": 1300,
-          "battery": 600,
+          "battery": 700,
           "micro": 600,
           "volumeBtns": 600,
           "cable": 600,
-          "water": 200
+          "water": 300
         },
         "note4": {
           "name": "Note 4",
           "display": 1300,
-          "battery": 600,
+          "battery": 700,
           "micro": 600,
           "volumeBtns": 600,
           "cable": 600,
-          "water": 200
+          "water": 300
         }
       }
     },
@@ -2843,7 +2840,7 @@
           "micro": 1000,
           "volumeBtns": 1000,
           "cable": 1000,
-          "water": 200
+          "water": 300
         },
         "mi11lite": {
           "name": "Mi 11 Lite",
@@ -2853,7 +2850,7 @@
           "micro": 800,
           "volumeBtns": 800,
           "cable": 800,
-          "water": 200
+          "water": 300
         },
         "minote10lite": {
           "name": "Mi Note 10 Lite",
@@ -2863,7 +2860,7 @@
           "micro": 800,
           "volumeBtns": 800,
           "cable": 800,
-          "water": 200
+          "water": 300
         },
         "mi10t": {
           "name": "Mi 10T",
@@ -2873,7 +2870,7 @@
           "micro": 800,
           "volumeBtns": 800,
           "cable": 800,
-          "water": 200
+          "water": 300
         },
         "mi10tlite": {
           "name": "Mi 10T Lite",
@@ -2883,7 +2880,7 @@
           "micro": 800,
           "volumeBtns": 800,
           "cable": 800,
-          "water": 200
+          "water": 300
         },
         "mi10tpro": {
           "name": "Mi 10 T Pro",
@@ -2893,7 +2890,7 @@
           "micro": 800,
           "volumeBtns": 800,
           "cable": 800,
-          "water": 200
+          "water": 300
         },
         "mi10youth": {
           "name": "Mi 10 Youth",
@@ -2903,7 +2900,7 @@
           "micro": 800,
           "volumeBtns": 800,
           "cable": 800,
-          "water": 200
+          "water": 300
         },
         "mi10ultra": {
           "name": "Mi 10 Ultra",
@@ -2913,7 +2910,7 @@
           "micro": 1000,
           "volumeBtns": 1000,
           "cable": 1000,
-          "water": 200
+          "water": 300
         },
         "mi10pro": {
           "name": "Mi 10 Pro",
@@ -2923,7 +2920,7 @@
           "micro": 1000,
           "volumeBtns": 1000,
           "cable": 1000,
-          "water": 200
+          "water": 300
         },
         "mi10lite": {
           "name": "Mi 10 Lite",
@@ -2933,7 +2930,7 @@
           "micro": 1000,
           "volumeBtns": 1000,
           "cable": 1000,
-          "water": 200
+          "water": 300
         },
         "mi10": {
           "name": "Mi 10",
@@ -2943,7 +2940,7 @@
           "micro": 1000,
           "volumeBtns": 1000,
           "cable": 1000,
-          "water": 200
+          "water": 300
         },
         "minote10pro": {
           "name": "Mi Note 10 Pro",
@@ -2953,7 +2950,7 @@
           "micro": 800,
           "volumeBtns": 800,
           "cable": 800,
-          "water": 200
+          "water": 300
         },
         "minote10": {
           "name": "Mi Note 10",
@@ -2963,7 +2960,7 @@
           "micro": 800,
           "volumeBtns": 800,
           "cable": 800,
-          "water": 200
+          "water": 300
         },
         "mia3": {
           "name": "Mi A3",
@@ -2973,7 +2970,7 @@
           "micro": 1000,
           "volumeBtns": 1000,
           "cable": 1000,
-          "water": 200
+          "water": 300
         },
         "mi9tpro": {
           "name": "Mi 9T Pro",
@@ -2983,7 +2980,7 @@
           "micro": 1000,
           "volumeBtns": 1000,
           "cable": 1000,
-          "water": 200
+          "water": 300
         },
         "mi9t": {
           "name": "Mi 9T",
@@ -2993,7 +2990,7 @@
           "micro": 1000,
           "volumeBtns": 1000,
           "cable": 1000,
-          "water": 200
+          "water": 300
         },
         "mi9se": {
           "name": "Mi 9 SE",
@@ -3003,7 +3000,7 @@
           "micro": 800,
           "volumeBtns": 800,
           "cable": 800,
-          "water": 200
+          "water": 300
         },
         "mi9pro": {
           "name": "Mi 9 Pro",
@@ -3013,7 +3010,7 @@
           "micro": 1000,
           "volumeBtns": 1000,
           "cable": 1000,
-          "water": 200
+          "water": 300
         },
         "mi9lite": {
           "name": "Mi 9 Lite",
@@ -3023,7 +3020,7 @@
           "micro": 800,
           "volumeBtns": 800,
           "cable": 800,
-          "water": 200
+          "water": 300
         },
         "mi9": {
           "name": "Mi 9",
@@ -3033,27 +3030,27 @@
           "micro": 800,
           "volumeBtns": 800,
           "cable": 800,
-          "water": 200
+          "water": 300
         },
         "mia2lite": {
           "name": "Mi A2 Lite",
           "display": 1600,
           "displayGlass": 1600,
-          "battery": 600,
+          "battery": 700,
           "micro": 600,
           "volumeBtns": 600,
           "cable": 600,
-          "water": 200
+          "water": 300
         },
         "mia2": {
           "name": "Mi A2",
           "display": 1100,
           "displayGlass": 1100,
-          "battery": 600,
+          "battery": 700,
           "micro": 600,
           "volumeBtns": 600,
           "cable": 600,
-          "water": 200
+          "water": 300
         },
         "mi8se": {
           "name": "Mi 8 SE",
@@ -3063,7 +3060,7 @@
           "micro": 800,
           "volumeBtns": 800,
           "cable": 800,
-          "water": 200
+          "water": 300
         },
         "mi8pro": {
           "name": "Mi 8 Pro",
@@ -3073,7 +3070,7 @@
           "micro": 800,
           "volumeBtns": 800,
           "cable": 800,
-          "water": 200
+          "water": 300
         },
         "mi8lite": {
           "name": "Mi 8 Lite",
@@ -3083,7 +3080,7 @@
           "micro": 800,
           "volumeBtns": 800,
           "cable": 800,
-          "water": 200
+          "water": 300
         },
         "mi8": {
           "name": "Mi 8",
@@ -3093,7 +3090,7 @@
           "micro": 800,
           "volumeBtns": 800,
           "cable": 800,
-          "water": 200
+          "water": 300
         },
         "mia1": {
           "name": "Mi A1",
@@ -3103,7 +3100,7 @@
           "micro": 500,
           "volumeBtns": 500,
           "cable": 500,
-          "water": 200
+          "water": 300
         }
       }
     },
@@ -3118,7 +3115,7 @@
           "micro": 1000,
           "volumeBtns": 800,
           "cable": 1000,
-          "water": 200
+          "water": 300
         },
         "pocom3pro": {
           "name": "Poco M3 Pro",
@@ -3128,7 +3125,7 @@
           "micro": 1000,
           "volumeBtns": 800,
           "cable": 1000,
-          "water": 200
+          "water": 300
         },
         "pocom3": {
           "name": "Poco M3",
@@ -3138,7 +3135,7 @@
           "micro": 800,
           "volumeBtns": 600,
           "cable": 800,
-          "water": 200
+          "water": 300
         },
         "pocox3pro": {
           "name": "Poco X3 Pro",
@@ -3148,7 +3145,7 @@
           "micro": 800,
           "volumeBtns": 600,
           "cable": 800,
-          "water": 200
+          "water": 300
         },
         "pocox3": {
           "name": "Poco X3",
@@ -3158,7 +3155,7 @@
           "micro": 800,
           "volumeBtns": 600,
           "cable": 800,
-          "water": 200
+          "water": 300
         },
         "pococ3": {
           "name": "Poco C3",
@@ -3168,7 +3165,7 @@
           "micro": 800,
           "volumeBtns": 600,
           "cable": 800,
-          "water": 200
+          "water": 300
         },
         "pocof2pro": {
           "name": "Poco F2 Pro",
@@ -3178,7 +3175,7 @@
           "micro": 800,
           "volumeBtns": 600,
           "cable": 800,
-          "water": 200
+          "water": 300
         },
         "pocom2pro": {
           "name": "Poco M2 Pro",
@@ -3188,7 +3185,7 @@
           "micro": 800,
           "volumeBtns": 600,
           "cable": 800,
-          "water": 200
+          "water": 300
         },
         "pocom2": {
           "name": "Poco M2",
@@ -3198,7 +3195,7 @@
           "micro": 800,
           "volumeBtns": 600,
           "cable": 800,
-          "water": 200
+          "water": 300
         },
         "pocox2": {
           "name": "Poco M2",
@@ -3208,7 +3205,7 @@
           "micro": 800,
           "volumeBtns": 600,
           "cable": 800,
-          "water": 200
+          "water": 300
         }
       }
     }
@@ -3226,7 +3223,7 @@
           "micro": 1000,
           "volumeBtns": 1000,
           "cable": 1000,
-          "water": 200
+          "water": 300
         },
         "p40": {
           "name": "P40",
@@ -3236,7 +3233,7 @@
           "micro": 1000,
           "volumeBtns": 1000,
           "cable": 1000,
-          "water": 200
+          "water": 300
         },
         "p40lite": {
           "name": "P40 Lite",
@@ -3246,7 +3243,7 @@
           "micro": 600,
           "volumeBtns": 600,
           "cable": 600,
-          "water": 200
+          "water": 300
         },
         "p40litee": {
           "name": "P40 Lite E",
@@ -3256,37 +3253,37 @@
           "micro": 600,
           "volumeBtns": 600,
           "cable": 600,
-          "water": 200
+          "water": 300
         },
         "psmarts": {
           "name": "P Smart S",
           "display": 2000,
           "displayGlass": 2000,
-          "battery": 600,
+          "battery": 700,
           "micro": 600,
           "volumeBtns": 600,
           "cable": 600,
-          "water": 200
+          "water": 300
         },
         "psmart2021": {
           "name": "P Smart 2021",
           "display": 2000,
           "displayGlass": 2000,
-          "battery": 600,
+          "battery": 700,
           "micro": 600,
           "volumeBtns": 600,
           "cable": 600,
-          "water": 200
+          "water": 300
         },
         "psmart2020": {
           "name": "P Smart 2020",
           "display": 2000,
           "displayGlass": 2000,
-          "battery": 600,
+          "battery": 700,
           "micro": 600,
           "volumeBtns": 600,
           "cable": 600,
-          "water": 200
+          "water": 300
         },
         "p30pro": {
           "name": "P30 Pro",
@@ -3296,7 +3293,7 @@
           "micro": 800,
           "volumeBtns": 800,
           "cable": 800,
-          "water": 200
+          "water": 300
         },
         "p30lite": {
           "name": "P30 Lite",
@@ -3306,7 +3303,7 @@
           "micro": 800,
           "volumeBtns": 800,
           "cable": 800,
-          "water": 200
+          "water": 300
         },
         "p30": {
           "name": "P30",
@@ -3316,17 +3313,17 @@
           "micro": 800,
           "volumeBtns": 800,
           "cable": 800,
-          "water": 200
+          "water": 300
         },
         "p20lite": {
           "name": "P20 Lite",
           "display": 1500,
           "displayGlass": 1500,
-          "battery": 600,
+          "battery": 700,
           "micro": 600,
           "volumeBtns": 600,
           "cable": 600,
-          "water": 200
+          "water": 300
         },
         "p20pro": {
           "name": "P20 Pro",
@@ -3336,87 +3333,87 @@
           "micro": 1000,
           "volumeBtns": 1000,
           "cable": 1000,
-          "water": 200
+          "water": 300
         },
         "p20": {
           "name": "P20",
           "display": 2000,
           "displayGlass": 2000,
-          "battery": 600,
+          "battery": 700,
           "micro": 600,
           "volumeBtns": 600,
           "cable": 600,
-          "water": 200
+          "water": 300
         },
         "psmartz": {
           "name": "P Smart Z",
           "display": 2000,
           "displayGlass": 2000,
-          "battery": 600,
+          "battery": 700,
           "micro": 600,
           "volumeBtns": 600,
           "cable": 600,
-          "water": 200
+          "water": 300
         },
         "psmartpro": {
           "name": "P Smart Pro",
           "display": 2000,
           "displayGlass": 2000,
-          "battery": 600,
+          "battery": 700,
           "micro": 600,
           "volumeBtns": 600,
           "cable": 600,
-          "water": 200
+          "water": 300
         },
         "psmartplus": {
           "name": "P Smart Plus",
           "display": 1500,
           "displayGlass": 1500,
-          "battery": 600,
+          "battery": 700,
           "micro": 600,
           "volumeBtns": 600,
           "cable": 600,
-          "water": 200
+          "water": 300
         },
         "psmart2019": {
           "name": "P Smart 2019",
           "display": 2000,
           "displayGlass": 2000,
-          "battery": 600,
+          "battery": 700,
           "micro": 600,
           "volumeBtns": 600,
           "cable": 600,
-          "water": 200
+          "water": 300
         },
         "p10lite": {
           "name": "P10 Lite",
           "display": 1400,
           "displayGlass": 1400,
-          "battery": 600,
+          "battery": 700,
           "micro": 600,
           "volumeBtns": 600,
           "cable": 600,
-          "water": 200
+          "water": 300
         },
         "p10": {
           "name": "P10",
           "display": 1600,
           "displayGlass": 1600,
-          "battery": 600,
+          "battery": 700,
           "micro": 600,
           "volumeBtns": 600,
           "cable": 600,
-          "water": 200
+          "water": 300
         },
         "psmart": {
           "name": "P Smart",
           "display": 1200,
           "displayGlass": 1200,
-          "battery": 600,
+          "battery": 700,
           "micro": 600,
           "volumeBtns": 600,
           "cable": 600,
-          "water": 200
+          "water": 300
         }
       }
     },
@@ -3431,7 +3428,7 @@
           "micro": 300,
           "volumeBtns": 300,
           "cable": 300,
-          "water": 200
+          "water": 300
         },
         "honorplay20": {
           "name": "Honor Play 20",
@@ -3441,7 +3438,7 @@
           "micro": 800,
           "volumeBtns": 800,
           "cable": 800,
-          "water": 200
+          "water": 300
         },
         "honorplay8a": {
           "name": "Honor Play 8A",
@@ -3451,57 +3448,57 @@
           "micro": 800,
           "volumeBtns": 800,
           "cable": 800,
-          "water": 200
+          "water": 300
         },
         "honor9x": {
           "name": "Honor 9X",
           "display": 2000,
           "displayGlass": 2000,
-          "battery": 600,
+          "battery": 700,
           "micro": 500,
           "volumeBtns": 500,
           "cable": 500,
-          "water": 200
+          "water": 300
         },
         "honor8s": {
           "name": "Honor 8S",
           "display": 1500,
           "displayGlass": 1500,
-          "battery": 600,
+          "battery": 700,
           "micro": 500,
           "volumeBtns": 500,
           "cable": 500,
-          "water": 200
+          "water": 300
         },
         "honor20s": {
           "name": "Honor 20S",
           "display": 2000,
           "displayGlass": 2000,
-          "battery": 600,
+          "battery": 700,
           "micro": 500,
           "volumeBtns": 500,
           "cable": 500,
-          "water": 200
+          "water": 300
         },
         "honor20pro": {
           "name": "Honor 20 Pro",
           "display": 2000,
           "displayGlass": 2000,
-          "battery": 600,
+          "battery": 700,
           "micro": 500,
           "volumeBtns": 500,
           "cable": 500,
-          "water": 200
+          "water": 300
         },
         "honor10i": {
           "name": "Honor 10i",
           "display": 2000,
           "displayGlass": 2000,
-          "battery": 600,
+          "battery": 700,
           "micro": 500,
           "volumeBtns": 500,
           "cable": 500,
-          "water": 200
+          "water": 300
         },
         "honorplay": {
           "name": "Honor Play",
@@ -3511,17 +3508,17 @@
           "micro": 300,
           "volumeBtns": 300,
           "cable": 300,
-          "water": 200
+          "water": 300
         },
         "honor20": {
           "name": "Honor 20",
           "display": 2000,
           "displayGlass": 2000,
-          "battery": 600,
+          "battery": 700,
           "micro": 500,
           "volumeBtns": 500,
           "cable": 500,
-          "water": 200
+          "water": 300
         },
         "honor9i": {
           "name": "Honor 9i",
@@ -3531,7 +3528,7 @@
           "micro": 300,
           "volumeBtns": 300,
           "cable": 300,
-          "water": 200
+          "water": 300
         },
         "honor8x": {
           "name": "Honor 8X",
@@ -3541,7 +3538,7 @@
           "micro": 300,
           "volumeBtns": 300,
           "cable": 300,
-          "water": 200
+          "water": 300
         },
         "honor7s": {
           "name": "Honor 7S",
@@ -3551,7 +3548,7 @@
           "micro": 300,
           "volumeBtns": 300,
           "cable": 300,
-          "water": 200
+          "water": 300
         },
         "honor7c": {
           "name": "Honor 7C",
@@ -3561,7 +3558,7 @@
           "micro": 300,
           "volumeBtns": 300,
           "cable": 300,
-          "water": 200
+          "water": 300
         },
         "honor7a": {
           "name": "Honor 7A",
@@ -3571,7 +3568,7 @@
           "micro": 300,
           "volumeBtns": 300,
           "cable": 300,
-          "water": 200
+          "water": 300
         },
         "honor10lite": {
           "name": "Honor 10 Lite",
@@ -3581,7 +3578,7 @@
           "micro": 300,
           "volumeBtns": 300,
           "cable": 300,
-          "water": 200
+          "water": 300
         },
         "honor10": {
           "name": "Honor 10",
@@ -3591,7 +3588,7 @@
           "micro": 300,
           "volumeBtns": 300,
           "cable": 300,
-          "water": 200
+          "water": 300
         },
         "honor9lite": {
           "name": "Honor 9 Lite",
@@ -3601,7 +3598,7 @@
           "micro": 300,
           "volumeBtns": 300,
           "cable": 300,
-          "water": 200
+          "water": 300
         },
         "honor9": {
           "name": "Honor 9",
@@ -3611,7 +3608,7 @@
           "micro": 300,
           "volumeBtns": 300,
           "cable": 300,
-          "water": 200
+          "water": 300
         },
         "honor8pro": {
           "name": "Honor 8 Pro",
@@ -3621,7 +3618,7 @@
           "micro": 300,
           "volumeBtns": 300,
           "cable": 300,
-          "water": 200
+          "water": 300
         },
         "honor7x": {
           "name": "Honor 7X",
@@ -3631,7 +3628,7 @@
           "micro": 300,
           "volumeBtns": 300,
           "cable": 300,
-          "water": 200
+          "water": 300
         },
         "honor6a": {
           "name": "Honor 6A",
@@ -3641,7 +3638,7 @@
           "micro": 300,
           "volumeBtns": 300,
           "cable": 300,
-          "water": 200
+          "water": 300
         }
       }
     },
@@ -3652,71 +3649,71 @@
           "name": "Nova 5T",
           "display": 2000,
           "displayGlass": 2000,
-          "battery": 600,
+          "battery": 700,
           "micro": 500,
           "volumeBtns": 500,
           "cable": 500,
-          "water": 200
+          "water": 300
         },
         "nova5i": {
           "name": "Nova 5i",
           "display": 2000,
           "displayGlass": 2000,
-          "battery": 600,
+          "battery": 700,
           "micro": 500,
           "volumeBtns": 500,
           "cable": 500,
-          "water": 200
+          "water": 300
         },
         "nova5": {
           "name": "Nova 5",
           "display": 2000,
           "displayGlass": 2000,
-          "battery": 600,
+          "battery": 700,
           "micro": 500,
           "volumeBtns": 500,
           "cable": 500,
-          "water": 200
+          "water": 300
         },
         "nova4e": {
           "name": "Nova 4e",
           "display": 2000,
           "displayGlass": 2000,
-          "battery": 600,
+          "battery": 700,
           "micro": 500,
           "volumeBtns": 500,
           "cable": 500,
-          "water": 200
+          "water": 300
         },
         "nova4": {
           "name": "Nova 4",
           "display": 1500,
           "displayGlass": 1500,
-          "battery": 600,
+          "battery": 700,
           "micro": 500,
           "volumeBtns": 500,
           "cable": 500,
-          "water": 200
+          "water": 300
         },
         "nova3i": {
           "name": "Nova 3i",
           "display": 1500,
           "displayGlass": 1500,
-          "battery": 600,
+          "battery": 700,
           "micro": 500,
           "volumeBtns": 500,
           "cable": 500,
-          "water": 200
+          "water": 300
         },
         "nova3": {
           "name": "Nova 3",
           "display": 1500,
           "displayGlass": 1500,
-          "battery": 600,
+          "battery": 700,
           "micro": 500,
           "volumeBtns": 500,
           "cable": 500,
-          "water": 200
+          "water": 300
         }
       }
     },
@@ -3727,271 +3724,271 @@
           "name": "Y9a",
           "display": 2500,
           "displayGlass": 2500,
-          "battery": 600,
+          "battery": 700,
           "micro": 600,
           "volumeBtns": 600,
           "cable": 600,
-          "water": 200
+          "water": 300
         },
         "y8s": {
           "name": "Y8s",
           "display": 2500,
           "displayGlass": 2500,
-          "battery": 600,
+          "battery": 700,
           "micro": 600,
           "volumeBtns": 600,
           "cable": 600,
-          "water": 200
+          "water": 300
         },
         "y8p": {
           "name": "Y8p",
           "display": 2500,
           "displayGlass": 2500,
-          "battery": 600,
+          "battery": 700,
           "micro": 600,
           "volumeBtns": 600,
           "cable": 600,
-          "water": 200
+          "water": 300
         },
         "y7p": {
           "name": "Y7p",
           "display": 2000,
           "displayGlass": 2000,
-          "battery": 600,
+          "battery": 700,
           "micro": 600,
           "volumeBtns": 600,
           "cable": 600,
-          "water": 200
+          "water": 300
         },
         "y7a": {
           "name": "Y7a",
           "display": 2000,
           "displayGlass": 2000,
-          "battery": 600,
+          "battery": 700,
           "micro": 600,
           "volumeBtns": 600,
           "cable": 600,
-          "water": 200
+          "water": 300
         },
         "y6s2019": {
           "name": "Y6s 2019",
           "display": 1500,
           "displayGlass": 1500,
-          "battery": 600,
+          "battery": 700,
           "micro": 600,
           "volumeBtns": 600,
           "cable": 600,
-          "water": 200
+          "water": 300
         },
         "y6p": {
           "name": "Y6p",
           "display": 1500,
           "displayGlass": 1500,
-          "battery": 600,
+          "battery": 700,
           "micro": 600,
           "volumeBtns": 600,
           "cable": 600,
-          "water": 200
+          "water": 300
         },
         "y5p": {
           "name": "Y5p",
           "display": 1500,
           "displayGlass": 1500,
-          "battery": 600,
+          "battery": 700,
           "micro": 600,
           "volumeBtns": 600,
           "cable": 600,
-          "water": 200
+          "water": 300
         },
         "y9s": {
           "name": "Y9s",
           "display": 2000,
           "displayGlass": 2000,
-          "battery": 600,
+          "battery": 700,
           "micro": 600,
           "volumeBtns": 600,
           "cable": 600,
-          "water": 200
+          "water": 300
         },
         "y9prime2019": {
           "name": "Y9 Prime 2019",
           "display": 2500,
           "displayGlass": 2500,
-          "battery": 600,
+          "battery": 700,
           "micro": 600,
           "volumeBtns": 600,
           "cable": 600,
-          "water": 200
+          "water": 300
         },
         "y7pro2019": {
           "name": "Y7 Pro 2019",
           "display": 1600,
           "displayGlass": 1600,
-          "battery": 600,
+          "battery": 700,
           "micro": 600,
           "volumeBtns": 600,
           "cable": 600,
-          "water": 200
+          "water": 300
         },
         "y7prime2019": {
           "name": "Y7 Prime 2019",
           "display": 1600,
           "displayGlass": 1600,
-          "battery": 600,
+          "battery": 700,
           "micro": 600,
           "volumeBtns": 600,
           "cable": 600,
-          "water": 200
+          "water": 300
         },
         "y7 2019": {
           "name": "Y7 2019",
           "display": 1600,
           "displayGlass": 1600,
-          "battery": 600,
+          "battery": 700,
           "micro": 600,
           "volumeBtns": 600,
           "cable": 600,
-          "water": 200
+          "water": 300
         },
         "y6pro2019": {
           "name": "Y6 Pro 2019",
           "display": 1500,
           "displayGlass": 1500,
-          "battery": 600,
+          "battery": 700,
           "micro": 600,
           "volumeBtns": 600,
           "cable": 600,
-          "water": 200
+          "water": 300
         },
         "y62019": {
           "name": "Y6 2019",
           "display": 1500,
           "displayGlass": 1500,
-          "battery": 600,
+          "battery": 700,
           "micro": 600,
           "volumeBtns": 600,
           "cable": 600,
-          "water": 200
+          "water": 300
         },
         "y52019": {
           "name": "Y5 2019",
           "display": 1500,
           "displayGlass": 1500,
-          "battery": 600,
+          "battery": 700,
           "micro": 600,
           "volumeBtns": 600,
           "cable": 600,
-          "water": 200
+          "water": 300
         },
         "y92019": {
           "name": "Y9 2019",
           "display": 2200,
           "displayGlass": 2200,
-          "battery": 600,
+          "battery": 700,
           "micro": 600,
           "volumeBtns": 600,
           "cable": 600,
-          "water": 200
+          "water": 300
         },
         "y92018": {
           "name": "Y9 2018",
           "display": 2000,
           "displayGlass": 2000,
-          "battery": 600,
+          "battery": 700,
           "micro": 600,
           "volumeBtns": 600,
           "cable": 600,
-          "water": 200
+          "water": 300
         },
         "y7prime2018": {
           "name": "Y7 Prime 2018",
           "display": 1500,
           "displayGlass": 1500,
-          "battery": 600,
+          "battery": 700,
           "micro": 600,
           "volumeBtns": 600,
           "cable": 600,
-          "water": 200
+          "water": 300
         },
         "y62018": {
           "name": "Y6 2018",
           "display": 1500,
           "displayGlass": 1500,
-          "battery": 600,
+          "battery": 700,
           "micro": 600,
           "volumeBtns": 600,
           "cable": 600,
-          "water": 200
+          "water": 300
         },
         "y5prime2018": {
           "name": "Y5 Prime 2018",
           "display": 1500,
           "displayGlass": 1500,
-          "battery": 600,
+          "battery": 700,
           "micro": 600,
           "volumeBtns": 600,
           "cable": 600,
-          "water": 200
+          "water": 300
         },
         "y32018": {
           "name": "Y3 2018",
           "display": 1500,
           "displayGlass": 1500,
-          "battery": 600,
+          "battery": 700,
           "micro": 600,
           "volumeBtns": 600,
           "cable": 600,
-          "water": 200
+          "water": 300
         },
         "y7prime": {
           "name": "Y7 Prime",
           "display": 1200,
           "displayGlass": 1200,
-          "battery": 600,
+          "battery": 700,
           "micro": 600,
           "volumeBtns": 600,
           "cable": 600,
-          "water": 200
+          "water": 300
         },
         "y7": {
           "name": "Y7",
           "display": 1400,
           "displayGlass": 1400,
-          "battery": 600,
+          "battery": 700,
           "micro": 600,
           "volumeBtns": 600,
           "cable": 600,
-          "water": 200
+          "water": 300
         },
         "y62017": {
           "name": "Y6 2017",
           "display": 1200,
           "displayGlass": 1200,
-          "battery": 600,
+          "battery": 700,
           "micro": 600,
           "volumeBtns": 600,
           "cable": 600,
-          "water": 200
+          "water": 300
         },
         "y52017": {
           "name": "Y5 2017",
           "display": 1200,
           "displayGlass": 1200,
-          "battery": 600,
+          "battery": 700,
           "micro": 600,
           "volumeBtns": 600,
           "cable": 600,
-          "water": 200
+          "water": 300
         },
         "y32017": {
           "name": "Y3 2017",
           "display": 1200,
           "displayGlass": 1200,
-          "battery": 600,
+          "battery": 700,
           "micro": 600,
           "volumeBtns": 600,
           "cable": 600,
-          "water": 200
+          "water": 300
         }
       }
     },
@@ -4006,7 +4003,7 @@
           "micro": 800,
           "volumeBtns": 600,
           "cable": 800,
-          "water": 200
+          "water": 300
         },
         "mate30": {
           "name": "Mate 30",
@@ -4016,7 +4013,7 @@
           "micro": 800,
           "volumeBtns": 600,
           "cable": 800,
-          "water": 200
+          "water": 300
         },
         "mate20x": {
           "name": "Mate 20X",
@@ -4026,7 +4023,7 @@
           "micro": 800,
           "volumeBtns": 600,
           "cable": 800,
-          "water": 200
+          "water": 300
         },
         "mate20pro": {
           "name": "Mate 20 Pro",
@@ -4036,17 +4033,17 @@
           "micro": 800,
           "volumeBtns": 600,
           "cable": 800,
-          "water": 200
+          "water": 300
         },
         "mate20lite": {
           "name": "Mate 20 Lite",
           "display": 1500,
           "displayGlass": 1500,
-          "battery": 600,
+          "battery": 700,
           "micro": 600,
           "volumeBtns": 600,
           "cable": 600,
-          "water": 200
+          "water": 300
         },
         "mate20": {
           "name": "Mate 20",
@@ -4056,37 +4053,37 @@
           "micro": 800,
           "volumeBtns": 600,
           "cable": 800,
-          "water": 200
+          "water": 300
         },
         "mate10pro": {
           "name": "Mate 10 Pro",
           "display": 2000,
           "displayGlass": 2000,
-          "battery": 600,
+          "battery": 700,
           "micro": 600,
           "volumeBtns": 600,
           "cable": 600,
-          "water": 200
+          "water": 300
         },
         "mate10lite": {
           "name": "Mate 10 Lite",
           "display": 1500,
           "displayGlass": 1500,
-          "battery": 600,
+          "battery": 700,
           "micro": 600,
           "volumeBtns": 600,
           "cable": 600,
-          "water": 200
+          "water": 300
         },
         "mate10": {
           "name": "Mate 10",
           "display": 2000,
           "displayGlass": 2000,
-          "battery": 600,
+          "battery": 700,
           "micro": 600,
           "volumeBtns": 600,
           "cable": 600,
-          "water": 200
+          "water": 300
         }
       }
     }

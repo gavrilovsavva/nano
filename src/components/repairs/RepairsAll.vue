@@ -1,7 +1,7 @@
 <template>
   <div class="repairs">
     <div class="container">
-      <h2 class="repairs__title title-h2">Ремонты</h2>
+      <h2 class="repairs__title title-h2">Ремонти</h2>
       <div class="repairs-items">
         <!-- Apple -->
         <div class="repairs-items__item">

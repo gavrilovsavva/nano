@@ -5,9 +5,9 @@
         <div class="footer-app">
           <div class="footer-app__text-container">
             <span class="footer-app__title"
-              >Оставьте заявку на ремонт и получите</span
+              >Залишіть заявку на ремонт та отримайте</span
             >
-            <span class="footer-app__subtitle">5% Скидку</span>
+            <span class="footer-app__subtitle">5% Знижку</span>
           </div>
           <app-btn></app-btn>
         </div>
@@ -15,7 +15,7 @@
     </div>
     <div class="footer-copy">
       <span class="footer-copy__text"
-        >© 2022 NanoStore. Все права защищены.</span
+        >© 2022 NanoStore. Всі права захищені.</span
       >
     </div>
   </footer>

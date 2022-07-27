@@ -1,7 +1,7 @@
 <template>
   <div class="repairs">
     <div class="container">
-      <h2 class="repairs__title title-h2">Ремонты Android</h2>
+      <h2 class="repairs__title title-h2">Ремонт Android</h2>
       <div class="repairs-items">
         <!-- Samsung -->
         <div class="repairs-items__item">

@@ -1,7 +1,14 @@
 import { createStore } from "vuex";
 import data from "@/data.json";
+import VuexPersist from "vuex-persist";
+
+const vuexPersist = new VuexPersist({
+  key: "app",
+  storage: window.localStorage,
+});
 
 export default createStore({
+  plugins: [vuexPersist.plugin],
   state: {
     priceName: "",
     repairName: "",

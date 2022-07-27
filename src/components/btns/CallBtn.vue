@@ -10,7 +10,7 @@
   <transition name="call-animation">
     <div v-if="callModal === true" class="call-c">
       <div class="modal">
-        <h3 class="modal__title">Вызов мастера</h3>
+        <h3 class="modal__title">Виклик майстра</h3>
         <span class="modal__subtitle"> 9:00 - 21:00</span>
         <form action="#" class="modal__form">
           <div class="modal__input-container">
@@ -21,7 +21,7 @@
               placeholder="nano"
               required
             />
-            <label for="modal__input" class="modal__label">Имя</label>
+            <label for="modal__input" class="modal__label">Им'я</label>
           </div>
 
           <div class="modal__input-container">
@@ -36,20 +36,20 @@
               pattern="[\+]\d{2}\s[\(]\d{3}[\)][\-]\d{3}[\-]\d{2}[\-]\d{2}"
             />
             <label for="modal__input" class="modal__label"
-              >Контактный номер</label
+              >Контактний номер</label
             >
           </div>
 
           <div class="modal__input-container">
             <input type="text" class="modal__input" placeholder="nano" />
             <label for="modal__input" class="modal__label"
-              >Модель телефона</label
+              >Модель телефону</label
             >
           </div>
 
           <div class="modal__input-container">
             <input type="text" class="modal__input" placeholder="nano" />
-            <label for="modal__input" class="modal__label">Адрес</label>
+            <label for="modal__input" class="modal__label">Адреса</label>
           </div>
 
           <div class="modal__input-container">
@@ -62,11 +62,11 @@
             <label
               for="modal__input"
               class="modal__label modal__text-area-label"
-              >Комментарий</label
+              >Коментар</label
             >
           </div>
 
-          <input type="submit" value="Отправить" class="modal__submit" />
+          <input type="submit" value="Надіслати" class="modal__submit" />
         </form>
       </div>
     </div>
@@ -74,7 +74,7 @@
 
   <button @click="callModalBtn" class="btn-modal">
     <img src="@/assets/header/manage.svg" alt="manage" class="btn-img" />
-    Вызвать мастера
+    Викликати майстра
   </button>
 </template>
 

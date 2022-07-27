@@ -12,7 +12,7 @@
       <div v-if="appModal === true" class="call-c">
         <div class="modal">
           <h3 class="modal__title">
-            Оставьте заявку на ремонт и получите скидку 5%
+            Залишіть заявку на ремонт та отримайте знижку 5%
           </h3>
           <form action="#" class="modal__form">
             <div class="modal__input-container">
@@ -23,7 +23,7 @@
                 placeholder="nano"
                 required
               />
-              <label for="modal__input" class="modal__label">Имя</label>
+              <label for="modal__input" class="modal__label">Им'я</label>
             </div>
 
             <div class="modal__input-container">
@@ -38,26 +38,26 @@
                 pattern="[\+]\d{2}\s[\(]\d{3}[\)][\-]\d{3}[\-]\d{2}[\-]\d{2}"
               />
               <label for="modal__input" class="modal__label"
-                >Контактный номер</label
+                >Контактний номер</label
               >
             </div>
 
             <div class="modal__input-container">
               <input type="text" class="modal__input" placeholder="nano" />
               <label for="modal__input" class="modal__label"
-                >Модель телефона</label
+                >Модель телефону</label
               >
             </div>
 
             <div class="modal__input-container">
               <select name="" id="" class="modal__input">
-                <option value="">Проспект Шевченко 10/1</option>
-                <option value="">Старосенная площадь 1А</option>
-                <option value="">Вильямса 9A</option>
-                <option value="">Космонавтов 9/1</option>
+                <option value="">Проспект Шевченка 10/1</option>
+                <option value="">Старосінна площа 1А</option>
+                <option value="">Вільямса 9A</option>
+                <option value="">Космонавтів 9/1</option>
               </select>
               <label for="modal__input" class="modal__label"
-                >Выбрать отделение</label
+                >Вибрати відділення</label
               >
             </div>
 
@@ -71,11 +71,11 @@
               <label
                 for="modal__input"
                 class="modal__label modal__text-area-label"
-                >Комментарий</label
+                >Коментар</label
               >
             </div>
 
-            <input type="submit" value="Отправить" class="modal__submit" />
+            <input type="submit" value="Надіслати" class="modal__submit" />
           </form>
         </div>
       </div>

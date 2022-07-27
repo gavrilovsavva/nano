@@ -1,14 +1,14 @@
 <template>
   <div class="address-item">
     <div class="address-item__text-container">
-      <h3 class="address-item__title">Проспект Шевченко 10/1</h3>
+      <h3 class="address-item__title">Проспект Шевченка 10/1</h3>
       <div class="address-item__columns">
         <div class="address-item__column">
-          <span class="address-item__column-title">График работы</span>
-          <span class="address-item__column-text">Пн-Вс 9:00 - 21:00</span>
+          <span class="address-item__column-title">Графік роботи</span>
+          <span class="address-item__column-text">Пн-Нд 9:00 - 21:00</span>
         </div>
         <div class="address-item__column">
-          <span class="address-item__column-title">Телефоны</span>
+          <span class="address-item__column-title">Номера</span>
           <a href="tel:+380931002210" class="address-item__column-text"
             >+380 93 100 22 10</a
           >

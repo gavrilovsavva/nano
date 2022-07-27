@@ -1,14 +1,14 @@
 <template>
   <div class="address-item">
     <div class="address-item__text-container">
-      <h3 class="address-item__title">площадь Старосенная 1А К5, А5.1-А5.10</h3>
+      <h3 class="address-item__title">площа Старосінна 1А К5, А5.1-А5.10</h3>
       <div class="address-item__columns">
         <div class="address-item__column">
-          <span class="address-item__column-title">График работы</span>
-          <span class="address-item__column-text">Пн-Вс 10:00 - 20:00</span>
+          <span class="address-item__column-title">Графік роботи</span>
+          <span class="address-item__column-text">Пн-Нд 10:00 - 20:00</span>
         </div>
         <div class="address-item__column">
-          <span class="address-item__column-title">Телефоны</span>
+          <span class="address-item__column-title">Номера</span>
           <a href="tel:+380631002210" class="address-item__column-text"
             >+380 63 100 22 10</a
           >
